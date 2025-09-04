@@ -1,0 +1,1452 @@
+{
+    "currency": "EUR",
+    "supplier_map": [
+      {
+        "category": "Panels (MDF, particleboard, plywood)",
+        "what_you_buy": "18/25mm sheets, veneer-grade",
+        "indicative_annual_spend_eur": 6600000,
+        "target_prices_note": "MDF 18mm ~€450–600/m³ (≈€45–60/sheet 2800×2070); particleboard 18mm ~€250–350/m³",
+        "suppliers": [
+          {
+            "name": "EuroMDF Group BV",
+            "address": {
+              "street": "Via Roma 12",
+              "city": "Milano (MI)",
+              "latitude": 45.4642,
+              "longitude": 9.1900
+            },
+            "products": [
+              {
+                "product_id": "PAN-MDF18-2800x2070",
+                "name": "MDF 18mm Sheet 2800×2070 FSC",
+                "spec": "E1/CARB; veneer-grade",
+                "unit": "sheet",
+                "unit_price_eur": 56.5,
+                "moq": 200,
+                "lead_time_days": 14
+              },
+              {
+                "product_id": "PAN-PB18-2620x2070",
+                "name": "Particleboard 18mm 2620×2070",
+                "spec": "P2 furniture grade",
+                "unit": "sheet",
+                "unit_price_eur": 31.2,
+                "moq": 300,
+                "lead_time_days": 12
+              },
+              {
+                "product_id": "PAN-PLY25-2440x1220",
+                "name": "Plywood 25mm 2440×1220 BB/CC",
+                "spec": "BB/CC poplar",
+                "unit": "sheet",
+                "unit_price_eur": 61.0,
+                "moq": 100,
+                "lead_time_days": 18
+              }
+            ]
+          },
+          {
+            "name": "NordPanel S.r.l.",
+            "address": {
+              "street": "Via Garibaldi 45",
+              "city": "Torino (TO)",
+              "latitude": 45.0703,
+              "longitude": 7.6869
+            },
+            "products": [
+              {
+                "product_id": "PAN-MDF18-2800x2070",
+                "name": "MDF 18mm Sheet 2800×2070 FSC",
+                "spec": "Low-VOC, E1",
+                "unit": "sheet",
+                "unit_price_eur": 55.9,
+                "moq": 180,
+                "lead_time_days": 10
+              },
+              {
+                "product_id": "PAN-MDF25-2800x2070",
+                "name": "MDF 25mm Sheet 2800×2070",
+                "spec": "E1 heavy-duty",
+                "unit": "sheet",
+                "unit_price_eur": 78.0,
+                "moq": 150,
+                "lead_time_days": 15
+              }
+            ]
+          },
+          {
+            "name": "GreenCore Boards NV",
+            "address": {
+              "street": "Viale Europa 101",
+              "city": "Bologna (BO)",
+              "latitude": 44.4949,
+              "longitude": 11.3426
+            },
+            "products": [
+              {
+                "product_id": "PAN-PB18-2620x2070",
+                "name": "Particleboard 18mm 2620×2070",
+                "spec": "Recycled core, P2",
+                "unit": "sheet",
+                "unit_price_eur": 29.8,
+                "moq": 250,
+                "lead_time_days": 11
+              },
+              {
+                "product_id": "PAN-PLY25-2440x1220",
+                "name": "Plywood 25mm 2440×1220 BB/CC",
+                "spec": "FSC mix",
+                "unit": "sheet",
+                "unit_price_eur": 62.5,
+                "moq": 120,
+                "lead_time_days": 20
+              }
+            ]
+          },
+          {
+            "name": "Danubia Panelworks Sp. z o.o.",
+            "address": {
+              "street": "Via dei Mille 7",
+              "city": "Verona (VR)",
+              "latitude": 45.4384,
+              "longitude": 10.9916
+            },
+            "products": [
+              {
+                "product_id": "PAN-MDF18-2800x2070",
+                "name": "MDF 18mm Sheet 2800×2070 FSC",
+                "spec": "CARB II",
+                "unit": "sheet",
+                "unit_price_eur": 57.3,
+                "moq": 220,
+                "lead_time_days": 13
+              },
+              {
+                "product_id": "PAN-PB18-2620x2070",
+                "name": "Particleboard 18mm 2620×2070",
+                "spec": "P2, melamine-ready",
+                "unit": "sheet",
+                "unit_price_eur": 32.4,
+                "moq": 240,
+                "lead_time_days": 9
+              }
+            ]
+          },
+          {
+            "name": "AlpPly AG",
+            "address": {
+              "street": "Via Brennero 88",
+              "city": "Bolzano (BZ)",
+              "latitude": 46.4983,
+              "longitude": 11.3548
+            },
+            "products": [
+              {
+                "product_id": "PAN-PLY25-2440x1220",
+                "name": "Plywood 25mm 2440×1220 BB/CC",
+                "spec": "Birch core",
+                "unit": "sheet",
+                "unit_price_eur": 67.9,
+                "moq": 90,
+                "lead_time_days": 16
+              },
+              {
+                "product_id": "PAN-MDF25-2800x2070",
+                "name": "MDF 25mm Sheet 2800×2070",
+                "spec": "FSC, E1",
+                "unit": "sheet",
+                "unit_price_eur": 81.5,
+                "moq": 120,
+                "lead_time_days": 14
+              }
+            ]
+          },
+          {
+            "name": "Atlantic Ply SRL",
+            "address": {
+              "street": "Via del Porto 33",
+              "city": "Genova (GE)",
+              "latitude": 44.4056,
+              "longitude": 8.9463
+            },
+            "products": [
+              {
+                "product_id": "PAN-PLY25-2440x1220",
+                "name": "Plywood 25mm 2440×1220 BB/CC",
+                "spec": "Marine glue",
+                "unit": "sheet",
+                "unit_price_eur": 65.0,
+                "moq": 110,
+                "lead_time_days": 17
+              },
+              {
+                "product_id": "PAN-PB18-2620x2070",
+                "name": "Particleboard 18mm 2620×2070",
+                "spec": "P2, E1",
+                "unit": "sheet",
+                "unit_price_eur": 30.9,
+                "moq": 280,
+                "lead_time_days": 12
+              }
+            ]
+          }
+        ],
+        "notes": "Dual-source per type; FSC/CARB"
+      },
+      {
+        "category": "Solid wood & veneers",
+        "what_you_buy": "oak/beech, veneers",
+        "indicative_annual_spend_eur": 2400000,
+        "target_prices_note": "KD solid €1.0–1.5k/m³; veneer €1.5–3/m² (premium €5–10)",
+        "suppliers": [
+          {
+            "name": "BalticVeneer OÜ",
+            "address": {
+              "street": "Via Trieste 18",
+              "city": "Udine (UD)",
+              "latitude": 46.0711,
+              "longitude": 13.2348
+            },
+            "products": [
+              {
+                "product_id": "VEN-OAK-0.6-A",
+                "name": "Oak Veneer 0.6mm A-grade",
+                "spec": "Book matched",
+                "unit": "m2",
+                "unit_price_eur": 2.8,
+                "moq": 1000,
+                "lead_time_days": 15
+              },
+              {
+                "product_id": "VEN-BEECH-0.6-A",
+                "name": "Beech Veneer 0.6mm A-grade",
+                "spec": "Crown cut",
+                "unit": "m2",
+                "unit_price_eur": 2.2,
+                "moq": 800,
+                "lead_time_days": 12
+              }
+            ]
+          },
+          {
+            "name": "Tyrol Timber GmbH",
+            "address": {
+              "street": "Via Innsbruck 2",
+              "city": "Trento (TN)",
+              "latitude": 46.0700,
+              "longitude": 11.1211
+            },
+            "products": [
+              {
+                "product_id": "SOL-OAK-KD-50",
+                "name": "Oak KD 50mm",
+                "spec": "KD 8–10% MC",
+                "unit": "m3",
+                "unit_price_eur": 1320,
+                "moq": 15,
+                "lead_time_days": 20
+              },
+              {
+                "product_id": "SOL-BEECH-KD-40",
+                "name": "Beech KD 40mm",
+                "spec": "KD 8–10% MC",
+                "unit": "m3",
+                "unit_price_eur": 980,
+                "moq": 12,
+                "lead_time_days": 18
+              },
+              {
+                "product_id": "VEN-OAK-0.6-A",
+                "name": "Oak Veneer 0.6mm A-grade",
+                "spec": "Quarter cut",
+                "unit": "m2",
+                "unit_price_eur": 3.1,
+                "moq": 1200,
+                "lead_time_days": 14
+              }
+            ]
+          },
+          {
+            "name": "Val d’Oak SRL",
+            "address": {
+              "street": "Via del Legno 77",
+              "city": "Vicenza (VI)",
+              "latitude": 45.5455,
+              "longitude": 11.5354
+            },
+            "products": [
+              {
+                "product_id": "SOL-OAK-KD-50",
+                "name": "Oak KD 50mm",
+                "spec": "Prime grade",
+                "unit": "m3",
+                "unit_price_eur": 1380,
+                "moq": 10,
+                "lead_time_days": 16
+              },
+              {
+                "product_id": "VEN-BEECH-0.6-A",
+                "name": "Beech Veneer 0.6mm A-grade",
+                "spec": "A/B",
+                "unit": "m2",
+                "unit_price_eur": 2.4,
+                "moq": 900,
+                "lead_time_days": 10
+              }
+            ]
+          },
+          {
+            "name": "VeneerCraft BV",
+            "address": {
+              "street": "Via Artigiani 9",
+              "city": "Treviso (TV)",
+              "latitude": 45.6669,
+              "longitude": 12.2431
+            },
+            "products": [
+              {
+                "product_id": "VEN-OAK-0.6-A",
+                "name": "Oak Veneer 0.6mm A-grade",
+                "spec": "Slip matched",
+                "unit": "m2",
+                "unit_price_eur": 2.9,
+                "moq": 1100,
+                "lead_time_days": 13
+              },
+              {
+                "product_id": "VEN-BEECH-0.6-A",
+                "name": "Beech Veneer 0.6mm A-grade",
+                "spec": "Quarter cut",
+                "unit": "m2",
+                "unit_price_eur": 2.1,
+                "moq": 1000,
+                "lead_time_days": 12
+              }
+            ]
+          }
+        ],
+        "notes": "Grade + moisture spec"
+      },
+      {
+        "category": "Hardware",
+        "what_you_buy": "soft-close hinges, slides, connectors, fasteners",
+        "indicative_annual_spend_eur": 4800000,
+        "target_prices_note": "Hinge €1.3–2.8; soft-close slides €4–9/pair; minifix kit €1–2",
+        "suppliers": [
+          {
+            "name": "SoftMotion Systems GmbH",
+            "address": {
+              "street": "Via Lombardia 20",
+              "city": "Monza (MB)",
+              "latitude": 45.5845,
+              "longitude": 9.2744
+            },
+            "products": [
+              {
+                "product_id": "HW-HINGE-110-SC",
+                "name": "110° Soft-close Hinge",
+                "spec": "Clip-on, full overlay",
+                "unit": "piece",
+                "unit_price_eur": 1.9,
+                "moq": 3000,
+                "lead_time_days": 10
+              },
+              {
+                "product_id": "HW-SLIDE-450-SC",
+                "name": "450mm Soft-close Slides Pair",
+                "spec": "Ball bearing, 45kg",
+                "unit": "pair",
+                "unit_price_eur": 6.8,
+                "moq": 1000,
+                "lead_time_days": 12
+              }
+            ]
+          },
+          {
+            "name": "SlidePro Italia S.r.l.",
+            "address": {
+              "street": "Via Emilia Ovest 155",
+              "city": "Parma (PR)",
+              "latitude": 44.8015,
+              "longitude": 10.3279
+            },
+            "products": [
+              {
+                "product_id": "HW-SLIDE-450-SC",
+                "name": "450mm Soft-close Slides Pair",
+                "spec": "Undermount, 40kg",
+                "unit": "pair",
+                "unit_price_eur": 7.9,
+                "moq": 1200,
+                "lead_time_days": 9
+              },
+              {
+                "product_id": "HW-MINIFIX-15",
+                "name": "Minifix 15 Connector Kit",
+                "spec": "Cam + bolt + dowel",
+                "unit": "set",
+                "unit_price_eur": 1.3,
+                "moq": 4000,
+                "lead_time_days": 8
+              }
+            ]
+          },
+          {
+            "name": "FerroLink Components BV",
+            "address": {
+              "street": "Via delle Industrie 4",
+              "city": "Bergamo (BG)",
+              "latitude": 45.6983,
+              "longitude": 9.6773
+            },
+            "products": [
+              {
+                "product_id": "HW-HINGE-110-SC",
+                "name": "110° Soft-close Hinge",
+                "spec": "Screw-on, full overlay",
+                "unit": "piece",
+                "unit_price_eur": 1.7,
+                "moq": 5000,
+                "lead_time_days": 11
+              },
+              {
+                "product_id": "HW-SCREW-4x25",
+                "name": "Chipboard Screw 4×25",
+                "spec": "Pozidriv, zinc",
+                "unit": "1000pcs",
+                "unit_price_eur": 5.6,
+                "moq": 50,
+                "lead_time_days": 7
+              }
+            ]
+          },
+          {
+            "name": "HingeTech Polska Sp. z o.o.",
+            "address": {
+              "street": "Via Manzoni 6",
+              "city": "Como (CO)",
+              "latitude": 45.8081,
+              "longitude": 9.0852
+            },
+            "products": [
+              {
+                "product_id": "HW-HINGE-110-SC",
+                "name": "110° Soft-close Hinge",
+                "spec": "Clip-on, half overlay",
+                "unit": "piece",
+                "unit_price_eur": 2.1,
+                "moq": 2500,
+                "lead_time_days": 13
+              },
+              {
+                "product_id": "HW-MINIFIX-15",
+                "name": "Minifix 15 Connector Kit",
+                "spec": "Zinc cam",
+                "unit": "set",
+                "unit_price_eur": 1.2,
+                "moq": 3500,
+                "lead_time_days": 10
+              }
+            ]
+          }
+        ],
+        "notes": "Prefer modular platforms + VMI"
+      },
+      {
+        "category": "Upholstery components",
+        "what_you_buy": "HR foam, battings, springs, webbing",
+        "indicative_annual_spend_eur": 2100000,
+        "target_prices_note": "Foam 30–40kg/m³ €120–220/m³; batting €2–4/kg",
+        "suppliers": [
+          {
+            "name": "FlexFoam Industries NV",
+            "address": {
+              "street": "Via Firenze 14",
+              "city": "Prato (PO)",
+              "latitude": 43.8777,
+              "longitude": 11.1022
+            },
+            "products": [
+              {
+                "product_id": "UP-FOAM-HR35",
+                "name": "HR Foam 35kg/m³",
+                "spec": "Cut-to-size",
+                "unit": "m3",
+                "unit_price_eur": 165,
+                "moq": 8,
+                "lead_time_days": 12
+              },
+              {
+                "product_id": "UP-BATTING-200",
+                "name": "Poly Batting 200gsm",
+                "spec": "Roll 1.6m×100m",
+                "unit": "kg",
+                "unit_price_eur": 3.1,
+                "moq": 300,
+                "lead_time_days": 9
+              }
+            ]
+          },
+          {
+            "name": "ComfortFill SRL",
+            "address": {
+              "street": "Via Toscanini 22",
+              "city": "Modena (MO)",
+              "latitude": 44.6471,
+              "longitude": 10.9252
+            },
+            "products": [
+              {
+                "product_id": "UP-FOAM-HR35",
+                "name": "HR Foam 35kg/m³",
+                "spec": "Blocks",
+                "unit": "m3",
+                "unit_price_eur": 158,
+                "moq": 10,
+                "lead_time_days": 10
+              },
+              {
+                "product_id": "UP-FOAM-HR40",
+                "name": "HR Foam 40kg/m³",
+                "spec": "Blocks",
+                "unit": "m3",
+                "unit_price_eur": 195,
+                "moq": 8,
+                "lead_time_days": 12
+              }
+            ]
+          },
+          {
+            "name": "SpringNest Polska",
+            "address": {
+              "street": "Via Veneto 5",
+              "city": "Ancona (AN)",
+              "latitude": 43.6158,
+              "longitude": 13.5189
+            },
+            "products": [
+              {
+                "product_id": "UP-SPRING-ZZ-3.0",
+                "name": "Zig-Zag Spring 3.0mm",
+                "spec": "Hardness H2",
+                "unit": "meter",
+                "unit_price_eur": 0.95,
+                "moq": 1500,
+                "lead_time_days": 14
+              },
+              {
+                "product_id": "UP-WEBBING-EL-60",
+                "name": "Elastic Webbing 60mm",
+                "spec": "High resilience",
+                "unit": "meter",
+                "unit_price_eur": 0.62,
+                "moq": 1200,
+                "lead_time_days": 11
+              }
+            ]
+          },
+          {
+            "name": "WebLine Textiles GmbH",
+            "address": {
+              "street": "Via Nazionale 91",
+              "city": "Perugia (PG)",
+              "latitude": 43.1107,
+              "longitude": 12.3908
+            },
+            "products": [
+              {
+                "product_id": "UP-WEBBING-EL-60",
+                "name": "Elastic Webbing 60mm",
+                "spec": "PU-latex",
+                "unit": "meter",
+                "unit_price_eur": 0.58,
+                "moq": 1500,
+                "lead_time_days": 10
+              },
+              {
+                "product_id": "UP-BATTING-200",
+                "name": "Poly Batting 200gsm",
+                "spec": "Roll",
+                "unit": "kg",
+                "unit_price_eur": 2.9,
+                "moq": 350,
+                "lead_time_days": 9
+              }
+            ]
+          },
+          {
+            "name": "ItaliaFoam S.p.A.",
+            "address": {
+              "street": "Via Salaria 300",
+              "city": "Roma (RM)",
+              "latitude": 41.9028,
+              "longitude": 12.4964
+            },
+            "products": [
+              {
+                "product_id": "UP-FOAM-HR35",
+                "name": "HR Foam 35kg/m³",
+                "spec": "Sheets 2000×1600",
+                "unit": "m3",
+                "unit_price_eur": 172,
+                "moq": 7,
+                "lead_time_days": 8
+              },
+              {
+                "product_id": "UP-FOAM-HR40",
+                "name": "HR Foam 40kg/m³",
+                "spec": "Sheets",
+                "unit": "m3",
+                "unit_price_eur": 205,
+                "moq": 6,
+                "lead_time_days": 10
+              }
+            ]
+          }
+        ],
+        "notes": "FR-certified alternates"
+      },
+      {
+        "category": "Fabrics & leather",
+        "what_you_buy": "140cm fabrics, full-grain hides",
+        "indicative_annual_spend_eur": 3300000,
+        "target_prices_note": "Fabrics €5–25/m; leather €30–80/m²",
+        "suppliers": [
+          {
+            "name": "Milano Weave S.r.l.",
+            "address": {
+              "street": "Via Tortona 36",
+              "city": "Milano (MI)",
+              "latitude": 45.4642,
+              "longitude": 9.1900
+            },
+            "products": [
+              {
+                "product_id": "FAB-140-PLAIN-POLY",
+                "name": "Plain Weave Polyester 140cm",
+                "spec": "20k rubs",
+                "unit": "meter",
+                "unit_price_eur": 6.9,
+                "moq": 800,
+                "lead_time_days": 12
+              },
+              {
+                "product_id": "LEA-FULLGRAIN-A",
+                "name": "Full-grain Leather A",
+                "spec": "Aniline, 1.2–1.4mm",
+                "unit": "m2",
+                "unit_price_eur": 58,
+                "moq": 200,
+                "lead_time_days": 18
+              }
+            ]
+          },
+          {
+            "name": "Loom & Hide Ltd.",
+            "address": {
+              "street": "Via della Moda 5",
+              "city": "Prato (PO)",
+              "latitude": 43.8777,
+              "longitude": 11.1022
+            },
+            "products": [
+              {
+                "product_id": "FAB-140-LINEN-BLEND",
+                "name": "Linen Blend 140cm",
+                "spec": "30k rubs",
+                "unit": "meter",
+                "unit_price_eur": 14.5,
+                "moq": 500,
+                "lead_time_days": 14
+              },
+              {
+                "product_id": "LEA-FULLGRAIN-A",
+                "name": "Full-grain Leather A",
+                "spec": "Semi-aniline",
+                "unit": "m2",
+                "unit_price_eur": 62,
+                "moq": 180,
+                "lead_time_days": 16
+              }
+            ]
+          },
+          {
+            "name": "NordTannery AB",
+            "address": {
+              "street": "Via dei Conciatori 21",
+              "city": "Arzignano (VI)",
+              "latitude": 45.5200,
+              "longitude": 11.3410
+            },
+            "products": [
+              {
+                "product_id": "LEA-FULLGRAIN-A",
+                "name": "Full-grain Leather A",
+                "spec": "Pigmented, 1.3mm",
+                "unit": "m2",
+                "unit_price_eur": 54,
+                "moq": 220,
+                "lead_time_days": 15
+              },
+              {
+                "product_id": "LEA-TOPOGRAIN-B",
+                "name": "Top-grain Leather B",
+                "spec": "Corrected grain",
+                "unit": "m2",
+                "unit_price_eur": 38,
+                "moq": 260,
+                "lead_time_days": 12
+              }
+            ]
+          },
+          {
+            "name": "Colorline Fabrics BV",
+            "address": {
+              "street": "Via dei Tessitori 10",
+              "city": "Biella (BI)",
+              "latitude": 45.5620,
+              "longitude": 8.0570
+            },
+            "products": [
+              {
+                "product_id": "FAB-140-PLAIN-POLY",
+                "name": "Plain Weave Polyester 140cm",
+                "spec": "20k rubs",
+                "unit": "meter",
+                "unit_price_eur": 6.4,
+                "moq": 900,
+                "lead_time_days": 10
+              },
+              {
+                "product_id": "FAB-140-LINEN-BLEND",
+                "name": "Linen Blend 140cm",
+                "spec": "Prewashed",
+                "unit": "meter",
+                "unit_price_eur": 13.9,
+                "moq": 600,
+                "lead_time_days": 13
+              }
+            ]
+          },
+          {
+            "name": "Atelier Pelle SAS",
+            "address": {
+              "street": "Via Ponte 8",
+              "city": "Firenze (FI)",
+              "latitude": 43.7696,
+              "longitude": 11.2558
+            },
+            "products": [
+              {
+                "product_id": "LEA-FULLGRAIN-A",
+                "name": "Full-grain Leather A",
+                "spec": "Dyed through",
+                "unit": "m2",
+                "unit_price_eur": 64,
+                "moq": 160,
+                "lead_time_days": 20
+              }
+            ]
+          },
+          {
+            "name": "TessutiNova SRL",
+            "address": {
+              "street": "Via Manifattura 52",
+              "city": "Como (CO)",
+              "latitude": 45.8081,
+              "longitude": 9.0852
+            },
+            "products": [
+              {
+                "product_id": "FAB-140-PLAIN-POLY",
+                "name": "Plain Weave Polyester 140cm",
+                "spec": "Easy clean",
+                "unit": "meter",
+                "unit_price_eur": 7.2,
+                "moq": 700,
+                "lead_time_days": 9
+              }
+            ]
+          }
+        ],
+        "notes": "Continuous colors + min dye lots"
+      },
+      {
+        "category": "Metal parts",
+        "what_you_buy": "frames, legs, laser-cut sheet",
+        "indicative_annual_spend_eur": 2700000,
+        "target_prices_note": "Raw €2.0–3.5/kg; powder coat +€0.8–1.5/kg",
+        "suppliers": [
+          {
+            "name": "LaserFrame Works Sp. z o.o.",
+            "address": {
+              "street": "Via dell'Acciaio 40",
+              "city": "Brescia (BS)",
+              "latitude": 45.5416,
+              "longitude": 10.2118
+            },
+            "products": [
+              {
+                "product_id": "MET-SHEET-3MM-LASER",
+                "name": "Laser-cut Sheet 3mm",
+                "spec": "S235, deburred",
+                "unit": "kg",
+                "unit_price_eur": 3.2,
+                "moq": 800,
+                "lead_time_days": 12
+              },
+              {
+                "product_id": "MET-LEG-170-BLACK",
+                "name": "Steel Leg 170mm Black",
+                "spec": "Powder coat",
+                "unit": "piece",
+                "unit_price_eur": 4.5,
+                "moq": 500,
+                "lead_time_days": 14
+              }
+            ]
+          },
+          {
+            "name": "Alpine Metalcraft GmbH",
+            "address": {
+              "street": "Via Brennero 12",
+              "city": "Trento (TN)",
+              "latitude": 46.0700,
+              "longitude": 11.1211
+            },
+            "products": [
+              {
+                "product_id": "MET-FRAME-SOFA-3S",
+                "name": "Sofa Frame Steel 3-seater",
+                "spec": "Welded jig, QC",
+                "unit": "piece",
+                "unit_price_eur": 72,
+                "moq": 120,
+                "lead_time_days": 20
+              },
+              {
+                "product_id": "MET-LEG-170-BLACK",
+                "name": "Steel Leg 170mm Black",
+                "spec": "Textured finish",
+                "unit": "piece",
+                "unit_price_eur": 4.2,
+                "moq": 600,
+                "lead_time_days": 12
+              }
+            ]
+          },
+          {
+            "name": "Leg&Steel SRL",
+            "address": {
+              "street": "Via dei Fabbri 3",
+              "city": "Reggio Emilia (RE)",
+              "latitude": 44.6983,
+              "longitude": 10.6309
+            },
+            "products": [
+              {
+                "product_id": "MET-LEG-170-BLACK",
+                "name": "Steel Leg 170mm Black",
+                "spec": "Smooth finish",
+                "unit": "piece",
+                "unit_price_eur": 4.1,
+                "moq": 700,
+                "lead_time_days": 10
+              },
+              {
+                "product_id": "MET-FRAME-SOFA-3S",
+                "name": "Sofa Frame Steel 3-seater",
+                "spec": "Powder coated",
+                "unit": "piece",
+                "unit_price_eur": 75,
+                "moq": 100,
+                "lead_time_days": 18
+              }
+            ]
+          },
+          {
+            "name": "Baltic Powdercoat OÜ",
+            "address": {
+              "street": "Via del Colore 19",
+              "city": "Padova (PD)",
+              "latitude": 45.4064,
+              "longitude": 11.8768
+            },
+            "products": [
+              {
+                "product_id": "MET-SHEET-3MM-LASER",
+                "name": "Laser-cut Sheet 3mm",
+                "spec": "Powder coat +1.0€/kg",
+                "unit": "kg",
+                "unit_price_eur": 4.2,
+                "moq": 700,
+                "lead_time_days": 15
+              }
+            ]
+          }
+        ],
+        "notes": "Welding tolerances, single jig"
+      },
+      {
+        "category": "Glass/stone",
+        "what_you_buy": "tops 6–10mm, marble/ceramic",
+        "target_suppliers_range": [2, 3],
+        "indicative_annual_spend_eur": 900000,
+        "target_prices_note": "Tempered glass 6mm €25–45/m²",
+        "suppliers": [
+          {
+            "name": "ClearEdge Glass BV",
+            "address": {
+              "street": "Via Cristallo 8",
+              "city": "Vicenza (VI)",
+              "latitude": 45.5455,
+              "longitude": 11.5354
+            },
+            "products": [
+              {
+                "product_id": "GLA-CLR-6MM-M2",
+                "name": "Tempered Glass Clear 6mm",
+                "spec": "Polished edges",
+                "unit": "m2",
+                "unit_price_eur": 32,
+                "moq": 80,
+                "lead_time_days": 10
+              },
+              {
+                "product_id": "GLA-CLR-10MM-M2",
+                "name": "Tempered Glass Clear 10mm",
+                "spec": "Polished edges",
+                "unit": "m2",
+                "unit_price_eur": 45,
+                "moq": 60,
+                "lead_time_days": 12
+              }
+            ]
+          },
+          {
+            "name": "Marmoria Pietre SRL",
+            "address": {
+              "street": "Via Marmo 5",
+              "city": "Carrara (MS)",
+              "latitude": 44.0816,
+              "longitude": 10.1029
+            },
+            "products": [
+              {
+                "product_id": "STONE-CARRARA-20-1200x600",
+                "name": "Carrara Marble Top 20mm 1200×600",
+                "spec": "Honed",
+                "unit": "piece",
+                "unit_price_eur": 120,
+                "moq": 30,
+                "lead_time_days": 18
+              },
+              {
+                "product_id": "GLA-CLR-6MM-M2",
+                "name": "Tempered Glass Clear 6mm",
+                "spec": "Beveled",
+                "unit": "m2",
+                "unit_price_eur": 34,
+                "moq": 70,
+                "lead_time_days": 11
+              }
+            ]
+          },
+          {
+            "name": "CeramiTop Italia S.r.l.",
+            "address": {
+              "street": "Via Ceramica 22",
+              "city": "Sassuolo (MO)",
+              "latitude": 44.5486,
+              "longitude": 10.7846
+            },
+            "products": [
+              {
+                "product_id": "CER-SINTERED-12-1200x600",
+                "name": "Sintered Stone 12mm 1200×600",
+                "spec": "Matte",
+                "unit": "piece",
+                "unit_price_eur": 95,
+                "moq": 40,
+                "lead_time_days": 14
+              },
+              {
+                "product_id": "GLA-CLR-10MM-M2",
+                "name": "Tempered Glass Clear 10mm",
+                "spec": "Polished",
+                "unit": "m2",
+                "unit_price_eur": 44,
+                "moq": 50,
+                "lead_time_days": 12
+              }
+            ]
+          },
+          {
+            "name": "CrystalLam AB",
+            "address": {
+              "street": "Via Lamiere 3",
+              "city": "Pisa (PI)",
+              "latitude": 43.7160,
+              "longitude": 10.4017
+            },
+            "products": [
+              {
+                "product_id": "GLA-CLR-6MM-M2",
+                "name": "Tempered Glass Clear 6mm",
+                "spec": "Laminated option +8€/m²",
+                "unit": "m2",
+                "unit_price_eur": 33,
+                "moq": 60,
+                "lead_time_days": 10
+              }
+            ]
+          }
+        ],
+        "notes": "Templates/dedicated cushioning"
+      },
+      {
+        "category": "Finishes",
+        "what_you_buy": "water/PU coatings, oils, catalysts",
+        "target_suppliers_range": [2, 3],
+        "indicative_annual_spend_eur": 1500000,
+        "target_prices_note": "Waterborne PU €3–7/kg",
+        "suppliers": [
+          {
+            "name": "AquaCoat Chemicals GmbH",
+            "address": {
+              "street": "Via Chimica 12",
+              "city": "Bergamo (BG)",
+              "latitude": 45.6983,
+              "longitude": 9.6773
+            },
+            "products": [
+              {
+                "product_id": "FIN-PU-WB-CLEAR-MATT",
+                "name": "Waterborne PU Clear Matt",
+                "spec": "2K system",
+                "unit": "kg",
+                "unit_price_eur": 5.2,
+                "moq": 500,
+                "lead_time_days": 9
+              },
+              {
+                "product_id": "FIN-STAIN-WALNUT",
+                "name": "Walnut Stain",
+                "spec": "Water-based",
+                "unit": "kg",
+                "unit_price_eur": 4.1,
+                "moq": 300,
+                "lead_time_days": 8
+              }
+            ]
+          },
+          {
+            "name": "PureFinish SRL",
+            "address": {
+              "street": "Via Vernici 5",
+              "city": "Torino (TO)",
+              "latitude": 45.0703,
+              "longitude": 7.6869
+            },
+            "products": [
+              {
+                "product_id": "FIN-PU-WB-CLEAR-MATT",
+                "name": "Waterborne PU Clear Matt",
+                "spec": "Low VOC",
+                "unit": "kg",
+                "unit_price_eur": 5.6,
+                "moq": 400,
+                "lead_time_days": 7
+              },
+              {
+                "product_id": "FIN-OIL-HARDWAX",
+                "name": "Hardwax Oil",
+                "spec": "Natural",
+                "unit": "kg",
+                "unit_price_eur": 6.8,
+                "moq": 250,
+                "lead_time_days": 10
+              }
+            ]
+          },
+          {
+            "name": "GreenSeal Coatings BV",
+            "address": {
+              "street": "Via Ambiente 17",
+              "city": "Padova (PD)",
+              "latitude": 45.4064,
+              "longitude": 11.8768
+            },
+            "products": [
+              {
+                "product_id": "FIN-PU-WB-CLEAR-MATT",
+                "name": "Waterborne PU Clear Matt",
+                "spec": "Food-safe",
+                "unit": "kg",
+                "unit_price_eur": 5.0,
+                "moq": 450,
+                "lead_time_days": 11
+              }
+            ]
+          }
+        ],
+        "notes": "Certified cycles, VOC control"
+      },
+      {
+        "category": "Adhesives",
+        "what_you_buy": "PVA D3/D4, PUR hotmelt",
+        "indicative_annual_spend_eur": 600000,
+        "target_prices_note": "PVA €1.2–2.0/kg; PUR €6–10/kg",
+        "suppliers": [
+          {
+            "name": "BondRight Polymers S.p.A.",
+            "address": {
+              "street": "Via Colla 30",
+              "city": "Milano (MI)",
+              "latitude": 45.4642,
+              "longitude": 9.1900
+            },
+            "products": [
+              {
+                "product_id": "ADH-PVA-D3",
+                "name": "PVA D3",
+                "spec": "Wood assembly",
+                "unit": "kg",
+                "unit_price_eur": 1.6,
+                "moq": 600,
+                "lead_time_days": 7
+              },
+              {
+                "product_id": "ADH-PUR-HOTMELT",
+                "name": "PUR Hotmelt",
+                "spec": "Cartridge 2kg",
+                "unit": "kg",
+                "unit_price_eur": 8.2,
+                "moq": 400,
+                "lead_time_days": 10
+              }
+            ]
+          },
+          {
+            "name": "PURTech Adhesives GmbH",
+            "address": {
+              "street": "Via Incollaggi 9",
+              "city": "Verona (VR)",
+              "latitude": 45.4384,
+              "longitude": 10.9916
+            },
+            "products": [
+              {
+                "product_id": "ADH-PUR-HOTMELT",
+                "name": "PUR Hotmelt",
+                "spec": "High-temp",
+                "unit": "kg",
+                "unit_price_eur": 7.6,
+                "moq": 350,
+                "lead_time_days": 9
+              },
+              {
+                "product_id": "ADH-PVA-D4",
+                "name": "PVA D4",
+                "spec": "Exterior grade",
+                "unit": "kg",
+                "unit_price_eur": 2.1,
+                "moq": 500,
+                "lead_time_days": 8
+              }
+            ]
+          }
+        ],
+        "notes": "Include nozzles/consumables"
+      },
+      {
+        "category": "Packaging",
+        "what_you_buy": "double-wall cartons, honeycomb, edge protectors, pallets",
+        "indicative_annual_spend_eur": 1800000,
+        "target_prices_note": "Box set €2–8; pallet €8–12",
+        "suppliers": [
+          {
+            "name": "PackHive SRL",
+            "address": {
+              "street": "Via Imballaggi 1",
+              "city": "Piacenza (PC)",
+              "latitude": 45.0526,
+              "longitude": 9.6930
+            },
+            "products": [
+              {
+                "product_id": "PKG-CARTON-1200x600x200",
+                "name": "Double-wall Carton 1200×600×200",
+                "spec": "B/C flute",
+                "unit": "set",
+                "unit_price_eur": 4.2,
+                "moq": 1200,
+                "lead_time_days": 7
+              },
+              {
+                "product_id": "PKG-EDGE-60x60x5",
+                "name": "Edge Protector 60×60×5mm",
+                "spec": "Recycled",
+                "unit": "piece",
+                "unit_price_eur": 0.18,
+                "moq": 5000,
+                "lead_time_days": 6
+              }
+            ]
+          },
+          {
+            "name": "EcoCarton BV",
+            "address": {
+              "street": "Via Cartiera 20",
+              "city": "Treviso (TV)",
+              "latitude": 45.6669,
+              "longitude": 12.2431
+            },
+            "products": [
+              {
+                "product_id": "PKG-CARTON-1200x600x200",
+                "name": "Double-wall Carton 1200×600×200",
+                "spec": "Recycled liner",
+                "unit": "set",
+                "unit_price_eur": 3.9,
+                "moq": 1500,
+                "lead_time_days": 8
+              },
+              {
+                "product_id": "PKG-HONEYCOMB-10",
+                "name": "Honeycomb Panel 10mm",
+                "spec": "1200×1000",
+                "unit": "m2",
+                "unit_price_eur": 2.5,
+                "moq": 800,
+                "lead_time_days": 9
+              }
+            ]
+          },
+          {
+            "name": "PalletPro Italia S.r.l.",
+            "address": {
+              "street": "Via dei Trasporti 11",
+              "city": "Bari (BA)",
+              "latitude": 41.1171,
+              "longitude": 16.8719
+            },
+            "products": [
+              {
+                "product_id": "PKG-PALLET-EPAL",
+                "name": "EUR EPAL Pallet",
+                "spec": "1200×800",
+                "unit": "piece",
+                "unit_price_eur": 9.5,
+                "moq": 600,
+                "lead_time_days": 5
+              },
+              {
+                "product_id": "PKG-EDGE-60x60x5",
+                "name": "Edge Protector 60×60×5mm",
+                "spec": "Virgin",
+                "unit": "piece",
+                "unit_price_eur": 0.19,
+                "moq": 4000,
+                "lead_time_days": 6
+              }
+            ]
+          }
+        ],
+        "notes": "Design for flat-pack"
+      },
+      {
+        "category": "Inbound logistics",
+        "what_you_buy": "3PL, EU groupage, extra-EU containers",
+        "indicative_annual_spend_eur": 1200000,
+        "target_prices_note": "Varies by lane; optimize €/pallet",
+        "suppliers": [
+          {
+            "name": "EuroLane 3PL NV",
+            "address": {
+              "street": "Via dei Logistici 3",
+              "city": "Novara (NO)",
+              "latitude": 45.4450,
+              "longitude": 8.6222
+            },
+            "products": [
+              {
+                "product_id": "LOG-LTL-EU-PALLET",
+                "name": "EU Groupage Pallet (LTL)",
+                "spec": "Zone A–D",
+                "unit": "pallet",
+                "unit_price_eur": 52,
+                "moq": 10,
+                "lead_time_days": 2
+              },
+              {
+                "product_id": "LOG-SEA-40HC",
+                "name": "Sea Freight 40HC Asia–EU",
+                "spec": "All-in (port-to-port)",
+                "unit": "container",
+                "unit_price_eur": 2100,
+                "moq": 1,
+                "lead_time_days": 30
+              }
+            ]
+          },
+          {
+            "name": "Danube Freight NV",
+            "address": {
+              "street": "Via Transito 88",
+              "city": "Trieste (TS)",
+              "latitude": 45.6495,
+              "longitude": 13.7768
+            },
+            "products": [
+              {
+                "product_id": "LOG-LTL-EU-PALLET",
+                "name": "EU Groupage Pallet (LTL)",
+                "spec": "Zone B–E",
+                "unit": "pallet",
+                "unit_price_eur": 49,
+                "moq": 12,
+                "lead_time_days": 2
+              },
+              {
+                "product_id": "LOG-FTL-13.6",
+                "name": "FTL 13.6m EU",
+                "spec": "Curtainsider",
+                "unit": "truck",
+                "unit_price_eur": 980,
+                "moq": 1,
+                "lead_time_days": 1
+              }
+            ]
+          },
+          {
+            "name": "MedCargo Group SRL",
+            "address": {
+              "street": "Via del Porto 200",
+              "city": "Napoli (NA)",
+              "latitude": 40.8518,
+              "longitude": 14.2681
+            },
+            "products": [
+              {
+                "product_id": "LOG-SEA-40HC",
+                "name": "Sea Freight 40HC Asia–EU",
+                "spec": "Peak season",
+                "unit": "container",
+                "unit_price_eur": 2350,
+                "moq": 1,
+                "lead_time_days": 32
+              },
+              {
+                "product_id": "LOG-CUSTOMS-EU",
+                "name": "Customs Clearance EU",
+                "spec": "Standard entry",
+                "unit": "job",
+                "unit_price_eur": 95,
+                "moq": 1,
+                "lead_time_days": 1
+              }
+            ]
+          }
+        ],
+        "notes": "Fuel-indexed contracts"
+      },
+      {
+        "category": "Tooling/MRO",
+        "what_you_buy": "blades, cutters, dust collection, PPE",
+        "indicative_annual_spend_eur": 2100000,
+        "target_prices_note": "",
+        "suppliers": [
+          {
+            "name": "CutMaster Tools GmbH",
+            "address": {
+              "street": "Via Utensili 4",
+              "city": "Brescia (BS)",
+              "latitude": 45.5416,
+              "longitude": 10.2118
+            },
+            "products": [
+              {
+                "product_id": "MRO-BLADE-300x3.2x30",
+                "name": "Circular Saw Blade 300×3.2×30",
+                "spec": "ATB 96T",
+                "unit": "piece",
+                "unit_price_eur": 58,
+                "moq": 20,
+                "lead_time_days": 6
+              },
+              {
+                "product_id": "MRO-CNC-12MM-2F",
+                "name": "CNC Endmill 12mm 2F",
+                "spec": "Carbide",
+                "unit": "piece",
+                "unit_price_eur": 18,
+                "moq": 30,
+                "lead_time_days": 7
+              }
+            ]
+          },
+          {
+            "name": "DustSafe Systems BV",
+            "address": {
+              "street": "Via Filtri 15",
+              "city": "Pordenone (PN)",
+              "latitude": 45.9569,
+              "longitude": 12.6617
+            },
+            "products": [
+              {
+                "product_id": "MRO-FILTER-HEPA-CART",
+                "name": "HEPA Cartridge Filter",
+                "spec": "H13",
+                "unit": "piece",
+                "unit_price_eur": 32,
+                "moq": 40,
+                "lead_time_days": 10
+              },
+              {
+                "product_id": "MRO-PPE-N95-BOX50",
+                "name": "N95 Masks (Box 50)",
+                "spec": "EN149",
+                "unit": "box",
+                "unit_price_eur": 21,
+                "moq": 60,
+                "lead_time_days": 5
+              }
+            ]
+          },
+          {
+            "name": "ProEdge Regrind SRL",
+            "address": {
+              "street": "Via Affilatura 2",
+              "city": "Parma (PR)",
+              "latitude": 44.8015,
+              "longitude": 10.3279
+            },
+            "products": [
+              {
+                "product_id": "MRO-CNC-12MM-2F",
+                "name": "CNC Endmill 12mm 2F",
+                "spec": "Regrind service",
+                "unit": "piece",
+                "unit_price_eur": 12,
+                "moq": 40,
+                "lead_time_days": 8
+              },
+              {
+                "product_id": "MRO-BLADE-300x3.2x30",
+                "name": "Circular Saw Blade 300×3.2×30",
+                "spec": "Re-sharpened",
+                "unit": "piece",
+                "unit_price_eur": 36,
+                "moq": 20,
+                "lead_time_days": 6
+              }
+            ]
+          }
+        ],
+        "notes": "Consignment & regrind"
+      }
+    ]
+  }
+  

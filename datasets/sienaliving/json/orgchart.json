@@ -1,0 +1,1474 @@
+{
+    "summary": {
+      "company_name": "Siena Living srl",
+      "hq_city": "Milan",
+      "hq_country": "Italy",
+      "annual_revenue": 100000000,
+      "channels": [
+        "E-commerce",
+        "20 Physical Stores"
+      ],
+      "shipping": "Worldwide"
+    },
+    "org_chart": {
+      "title": "Chief Executive Officer (CEO)",
+      "name": "Giulia Conti",
+      "reports": [
+        {
+          "title": "Chief Operating Officer (COO)",
+          "name": "Marco Rinaldi",
+          "reports": [
+            {
+              "title": "VP Manufacturing",
+              "name": "Federica Lombardi",
+              "reports": [
+                {
+                  "title": "Plant Manager – Milan",
+                  "name": "Roberto Gatti",
+                  "department": "Operations / Manufacturing",
+                  "location": "Milan, Italy (Milan Plant)",
+                  "email": "roberto.gatti@sienaliving.it",
+                  "employeeId": "FF100004",
+                  "startDate": "2019-12-08",
+                  "salary_eur": 95000
+                },
+                {
+                  "title": "Plant Manager – Brescia",
+                  "name": "Elisabetta Riva",
+                  "department": "Operations / Manufacturing",
+                  "location": "Brescia, Italy (Brescia Plant)",
+                  "email": "elisabetta.riva@sienaliving.it",
+                  "employeeId": "FF100005",
+                  "startDate": "2020-04-26",
+                  "salary_eur": 95000
+                },
+                {
+                  "title": "Director, Production Planning",
+                  "name": "Tommaso Pellegrini",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "tommaso.pellegrini@sienaliving.it",
+                  "employeeId": "FF100006",
+                  "startDate": "2023-07-30",
+                  "salary_eur": 105000
+                },
+                {
+                  "title": "Director, Maintenance & Facilities",
+                  "name": "Gianni Ferretti",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "gianni.ferretti@sienaliving.it",
+                  "employeeId": "FF100007",
+                  "startDate": "2025-04-23",
+                  "salary_eur": 105000
+                }
+              ],
+              "department": "Operations / Manufacturing",
+              "location": "Milan, Italy (HQ)",
+              "email": "federica.lombardi@sienaliving.it",
+              "employeeId": "FF100003",
+              "startDate": "2017-06-05",
+              "salary_eur": 140000
+            },
+            {
+              "title": "VP Supply Chain & Logistics",
+              "name": "Antonio Greco",
+              "reports": [
+                {
+                  "title": "Director, Global Sourcing",
+                  "name": "Serena Valori",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "serena.valori@sienaliving.it",
+                  "employeeId": "FF100009",
+                  "startDate": "2020-08-12",
+                  "salary_eur": 105000
+                },
+                {
+                  "title": "Director, Procurement (Direct)",
+                  "name": "Niccolò Damiani",
+                  "dotted_line_to": ["FF100019"],
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "niccolo.damiani@sienaliving.it",
+                  "employeeId": "FF100010",
+                  "startDate": "2020-06-15",
+                  "salary_eur": 105000
+                },
+                {
+                  "title": "Director, Procurement (Indirect)",
+                  "name": "Alberto Longo",
+                  "dotted_line_to": ["FF100019"],
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "alberto.longo@sienaliving.it",
+                  "employeeId": "FF100011",
+                  "startDate": "2019-10-26",
+                  "salary_eur": 105000
+                },
+                {
+                  "title": "Director, Logistics & 3PL",
+                  "name": "Carla Pagani",
+                  "department": "Operations",
+                  "location": "Milan, Italy (HQ/Logistics)",
+                  "email": "carla.pagani@sienaliving.it",
+                  "employeeId": "FF100012",
+                  "startDate": "2024-02-27",
+                  "salary_eur": 105000
+                },
+                {
+                  "title": "Director, Warehouse Ops (EU DC)",
+                  "name": "Giacomo Vieri",
+                  "department": "Operations",
+                  "location": "Piacenza, Italy (EU DC)",
+                  "email": "giacomo.vieri@sienaliving.it",
+                  "employeeId": "FF100013",
+                  "startDate": "2020-09-13",
+                  "salary_eur": 105000
+                },
+                {
+                  "title": "Director, Global Trade & Customs",
+                  "name": "Lucia Barone",
+                  "dotted_line_to": ["FF100090"],
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ/Legal)",
+                  "email": "lucia.barone@sienaliving.it",
+                  "employeeId": "FF100014",
+                  "startDate": "2025-01-10",
+                  "salary_eur": 105000
+                }
+              ],
+              "department": "Operations",
+              "location": "Milan, Italy (HQ)",
+              "email": "antonio.greco@sienaliving.it",
+              "employeeId": "FF100008",
+              "startDate": "2017-10-25",
+              "salary_eur": 140000
+            },
+            {
+              "title": "Director, Quality & HSE",
+              "name": "Davide Marchetti",
+              "reports": [
+                {
+                  "title": "Manager, Quality Assurance",
+                  "name": "Paola Moreschi",
+                  "department": "Quality & HSE",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "paola.moreschi@sienaliving.it",
+                  "employeeId": "FF100016",
+                  "startDate": "2025-02-16",
+                  "salary_eur": 75000
+                },
+                {
+                  "title": "Manager, Supplier Quality",
+                  "name": "Matteo Parodi",
+                  "department": "Quality & HSE",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "matteo.parodi@sienaliving.it",
+                  "employeeId": "FF100017",
+                  "startDate": "2020-06-14",
+                  "salary_eur": 75000
+                },
+                {
+                  "title": "Manager, Health & Safety",
+                  "name": "Sabrina Leone",
+                  "department": "Quality & HSE",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "sabrina.leone@sienaliving.it",
+                  "employeeId": "FF100018",
+                  "startDate": "2019-06-23",
+                  "salary_eur": 75000
+                }
+              ],
+              "department": "Quality & HSE",
+              "location": "Milan, Italy (HQ)",
+              "email": "davide.marchetti@sienaliving.it",
+              "employeeId": "FF100015",
+              "startDate": "2020-07-11",
+              "salary_eur": 105000
+            }
+          ],
+          "department": "Operations",
+          "location": "Milan, Italy (HQ)",
+          "email": "marco.rinaldi@sienaliving.it",
+          "employeeId": "FF100002",
+          "startDate": "2021-09-24",
+          "salary_eur": 200000
+        },
+        {
+          "title": "Chief Financial Officer (CFO)",
+          "name": "Elena Bianchi",
+          "reports": [
+            {
+              "title": "Director, Accounting & Controllership",
+              "name": "Riccardo Pugliese",
+              "department": "Finance",
+              "location": "Milan, Italy (HQ)",
+              "email": "riccardo.pugliese@sienaliving.it",
+              "employeeId": "FF100020",
+              "startDate": "2019-10-01",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, FP&A",
+              "name": "Chiara De Luca",
+              "department": "Finance",
+              "location": "Milan, Italy (HQ)",
+              "email": "chiara.deluca@sienaliving.it",
+              "employeeId": "FF100021",
+              "startDate": "2022-05-16",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Treasury & Cash Management",
+              "name": "Vittorio Sala",
+              "department": "Finance",
+              "location": "Milan, Italy (HQ)",
+              "email": "vittorio.sala@sienaliving.it",
+              "employeeId": "FF100022",
+              "startDate": "2017-11-22",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Tax",
+              "name": "Francesca Bortolotti",
+              "department": "Finance",
+              "location": "Milan, Italy (HQ)",
+              "email": "francesca.bortolotti@sienaliving.it",
+              "employeeId": "FF100023",
+              "startDate": "2025-05-14",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Finance Ops & Shared Services",
+              "name": "Alessia Grimaldi",
+              "department": "Finance",
+              "location": "Milan, Italy (HQ)",
+              "email": "alessia.grimaldi@sienaliving.it",
+              "employeeId": "FF100024",
+              "startDate": "2023-12-21",
+              "salary_eur": 105000
+            }
+          ],
+          "department": "Finance",
+          "location": "Milan, Italy (HQ)",
+          "email": "elena.bianchi@sienaliving.it",
+          "employeeId": "FF100019",
+          "startDate": "2022-04-09",
+          "salary_eur": 200000
+        },
+        {
+          "title": "Chief Marketing Officer (CMO)",
+          "name": "Luca De Santis",
+          "reports": [
+            {
+              "title": "Director, Brand Marketing",
+              "name": "Beatrice Romano",
+              "department": "Marketing",
+              "location": "Milan, Italy (HQ)",
+              "email": "beatrice.romano@sienaliving.it",
+              "employeeId": "FF100026",
+              "startDate": "2022-07-19",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Performance Marketing",
+              "name": "Enrico Bellini",
+              "department": "Marketing",
+              "location": "Milan, Italy (HQ)",
+              "email": "enrico.bellini@sienaliving.it",
+              "employeeId": "FF100027",
+              "startDate": "2020-05-16",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, PR & Communications",
+              "name": "Silvia Caruso",
+              "department": "Marketing",
+              "location": "Milan, Italy (HQ)",
+              "email": "silvia.caruso@sienaliving.it",
+              "employeeId": "FF100028",
+              "startDate": "2022-11-16",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Creative Studio",
+              "name": "Andrea Fiorini",
+              "department": "Marketing",
+              "location": "Milan, Italy (HQ)",
+              "email": "andrea.fiorini@sienaliving.it",
+              "employeeId": "FF100029",
+              "startDate": "2020-09-18",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Trade Marketing & Visual Merchandising",
+              "name": "Michela Parisi",
+              "department": "Marketing",
+              "location": "Milan, Italy (HQ)",
+              "email": "michela.parisi@sienaliving.it",
+              "employeeId": "FF100030",
+              "startDate": "2019-12-20",
+              "salary_eur": 105000
+            }
+          ],
+          "department": "Marketing",
+          "location": "Milan, Italy (HQ)",
+          "email": "luca.desantis@sienaliving.it",
+          "employeeId": "FF100025",
+          "startDate": "2016-05-23",
+          "salary_eur": 200000
+        },
+        {
+          "title": "Chief Digital Officer (CDO)",
+          "name": "Chiara Rossi",
+          "reports": [
+            {
+              "title": "VP E-commerce",
+              "name": "Fabio Romano",
+              "reports": [
+                {
+                  "title": "Director, Digital Product Management",
+                  "name": "Nadia Ferri",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "nadia.ferri@sienaliving.it",
+                  "employeeId": "FF100033",
+                  "startDate": "2022-08-30",
+                  "salary_eur": 105000
+                },
+                {
+                  "title": "Director, Site Merchandising",
+                  "name": "Giorgio Neri",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "giorgio.neri@sienaliving.it",
+                  "employeeId": "FF100034",
+                  "startDate": "2020-08-19",
+                  "salary_eur": 105000
+                },
+                {
+                  "title": "Director, UX/UI & Research",
+                  "name": "Irene Sarti",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "irene.sarti@sienaliving.it",
+                  "employeeId": "FF100035",
+                  "startDate": "2023-05-10",
+                  "salary_eur": 105000
+                },
+                {
+                  "title": "Director, Digital Payments & Fraud",
+                  "name": "Stefano Bassi",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "stefano.bassi@sienaliving.it",
+                  "employeeId": "FF100036",
+                  "startDate": "2018-11-21",
+                  "salary_eur": 105000
+                },
+                {
+                  "title": "Director, Marketplace & Partnerships",
+                  "name": "Ana Martins",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "ana.martins@sienaliving.it",
+                  "employeeId": "FF100037",
+                  "startDate": "2018-11-24",
+                  "salary_eur": 105000
+                }
+              ],
+              "department": "Digital",
+              "location": "Milan, Italy (HQ)",
+              "email": "fabio.romano@sienaliving.it",
+              "employeeId": "FF100032",
+              "startDate": "2018-06-06",
+              "salary_eur": 140000
+            },
+            {
+              "title": "Director, Omnichannel Programs",
+              "name": "Pietro Marconi",
+              "reports": [
+                {
+                  "title": "Manager, Click & Collect / BOPIS",
+                  "name": "Elisa Fontana",
+                  "department": "Digital",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "elisa.fontana@sienaliving.it",
+                  "employeeId": "FF100039",
+                  "startDate": "2023-07-07",
+                  "salary_eur": 75000
+                },
+                {
+                  "title": "Manager, Order Management System (OMS)",
+                  "name": "Maurizio Vitale",
+                  "department": "Digital",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "maurizio.vitale@sienaliving.it",
+                  "employeeId": "FF100040",
+                  "startDate": "2023-11-18",
+                  "salary_eur": 75000
+                }
+              ],
+              "department": "Digital",
+              "location": "Milan, Italy (HQ)",
+              "email": "pietro.marconi@sienaliving.it",
+              "employeeId": "FF100038",
+              "startDate": "2021-09-30",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Customer Experience & Support",
+              "name": "Marta Ricci",
+              "reports": [
+                {
+                  "title": "Manager, Multilingual Support (EMEA)",
+                  "name": "Hassan El Amrani",
+                  "department": "Digital",
+                  "location": "Amsterdam, Netherlands (Regional)",
+                  "email": "hassan.elamrani@sienaliving.it",
+                  "employeeId": "FF100042",
+                  "startDate": "2019-12-21",
+                  "salary_eur": 75000
+                },
+                {
+                  "title": "Manager, Returns & Warranty",
+                  "name": "Giulia Venturi",
+                  "department": "Digital",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "giulia.venturi@sienaliving.it",
+                  "employeeId": "FF100043",
+                  "startDate": "2023-04-01",
+                  "salary_eur": 75000
+                },
+                {
+                  "title": "Manager, Social Care & Community",
+                  "name": "Sofia Pelle",
+                  "department": "Digital",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "sofia.pelle@sienaliving.it",
+                  "employeeId": "FF100044",
+                  "startDate": "2022-01-25",
+                  "salary_eur": 75000
+                }
+              ],
+              "department": "Digital",
+              "location": "Milan, Italy (HQ)",
+              "email": "marta.ricci@sienaliving.it",
+              "employeeId": "FF100041",
+              "startDate": "2021-08-12",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, CRM & Loyalty",
+              "name": "Rafael Costa",
+              "dotted_line_to": ["FF100025"],
+              "reports": [
+                {
+                  "title": "Manager, Marketing Automation",
+                  "name": "Lorenzo Fabbri",
+                  "department": "Marketing",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "lorenzo.fabbri@sienaliving.it",
+                  "employeeId": "FF100046",
+                  "startDate": "2024-09-22",
+                  "salary_eur": 75000
+                },
+                {
+                  "title": "Manager, Data Activation",
+                  "name": "Yara Haddad",
+                  "department": "CRM",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "yara.haddad@sienaliving.it",
+                  "employeeId": "FF100047",
+                  "startDate": "2021-09-15",
+                  "salary_eur": 75000
+                }
+              ],
+              "department": "CRM",
+              "location": "Milan, Italy (HQ)",
+              "email": "rafael.costa@sienaliving.it",
+              "employeeId": "FF100045",
+              "startDate": "2024-05-09",
+              "salary_eur": 105000
+            }
+          ],
+          "department": "Digital",
+          "location": "Milan, Italy (HQ)",
+          "email": "chiara.rossi@sienaliving.it",
+          "employeeId": "FF100031",
+          "startDate": "2017-08-22",
+          "salary_eur": 200000
+        },
+        {
+          "title": "Chief Technology Officer / CIO (CTO/CIO)",
+          "name": "Alessandro Romano",
+          "reports": [
+            {
+              "title": "Director, Engineering (Web & Backend)",
+              "name": "Tatiana Russo",
+              "reports": [
+                {
+                  "title": "Manager, Frontend Engineering",
+                  "name": "Filippo Marchegiani",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "filippo.marchegiani@sienaliving.it",
+                  "employeeId": "FF100050",
+                  "startDate": "2022-08-30",
+                  "salary_eur": 75000
+                },
+                {
+                  "title": "Manager, Backend & Services",
+                  "name": "Omar Di Stefano",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "omar.distefano@sienaliving.it",
+                  "employeeId": "FF100051",
+                  "startDate": "2021-02-15",
+                  "salary_eur": 75000
+                },
+                {
+                  "title": "Manager, QA & Test Automation",
+                  "name": "Claudia Ferroni",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "claudia.ferroni@sienaliving.it",
+                  "employeeId": "FF100052",
+                  "startDate": "2022-06-01",
+                  "salary_eur": 75000
+                }
+              ],
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "tatiana.russo@sienaliving.it",
+              "employeeId": "FF100049",
+              "startDate": "2018-12-24",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Enterprise Applications",
+              "name": "Massimo Grassi",
+              "reports": [
+                {
+                  "title": "Manager, ERP",
+                  "name": "Daniele Sanna",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "daniele.sanna@sienaliving.it",
+                  "employeeId": "FF100054",
+                  "startDate": "2022-11-09",
+                  "salary_eur": 75000
+                },
+                {
+                  "title": "Manager, WMS & TMS",
+                  "name": "Ivana Kolos",
+                  "department": "Technology",
+                  "location": "Piacenza, Italy (EU DC)",
+                  "email": "ivana.kolos@sienaliving.it",
+                  "employeeId": "FF100055",
+                  "startDate": "2023-07-05",
+                  "salary_eur": 75000
+                },
+                {
+                  "title": "Manager, POS & Retail Systems",
+                  "name": "Sara Milani",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ/Retail Systems)",
+                  "email": "sara.milani@sienaliving.it",
+                  "employeeId": "FF100056",
+                  "startDate": "2024-12-26",
+                  "salary_eur": 75000
+                }
+              ],
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "massimo.grassi@sienaliving.it",
+              "employeeId": "FF100053",
+              "startDate": "2020-04-27",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, IT Operations",
+              "name": "Giovanni Pavesi",
+              "reports": [
+                {
+                  "title": "Manager, Infrastructure & Cloud",
+                  "name": "Nadia Lotti",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "nadia.lotti@sienaliving.it",
+                  "employeeId": "FF100058",
+                  "startDate": "2022-11-30",
+                  "salary_eur": 75000
+                },
+                {
+                  "title": "Manager, Help Desk & End-User Services",
+                  "name": "Paolo Fermi",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "paolo.fermi@sienaliving.it",
+                  "employeeId": "FF100059",
+                  "startDate": "2022-06-07",
+                  "salary_eur": 75000
+                }
+              ],
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "giovanni.pavesi@sienaliving.it",
+              "employeeId": "FF100057",
+              "startDate": "2017-11-21",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Cybersecurity & Risk",
+              "name": "Caterina Valenti",
+              "reports": [
+                {
+                  "title": "Manager, SecOps",
+                  "name": "Michele Romano",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "michele.romano@sienaliving.it",
+                  "employeeId": "FF100061",
+                  "startDate": "2020-12-31",
+                  "salary_eur": 75000
+                },
+                {
+                  "title": "Manager, GRC",
+                  "name": "Santo Grella",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "santo.grella@sienaliving.it",
+                  "employeeId": "FF100062",
+                  "startDate": "2020-08-17",
+                  "salary_eur": 75000
+                }
+              ],
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "caterina.valenti@sienaliving.it",
+              "employeeId": "FF100060",
+              "startDate": "2024-01-13",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Head, Data Platform & BI",
+              "name": "Yuliya Kovalenko",
+              "dotted_line_to": ["FF100032"],
+              "reports": [
+                {
+                  "title": "Manager, Data Engineering",
+                  "name": "Leonardo Corsi",
+                  "department": "Technology",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "leonardo.corsi@sienaliving.it",
+                  "employeeId": "FF100064",
+                  "startDate": "2021-03-21",
+                  "salary_eur": 75000
+                },
+                {
+                  "title": "Manager, Analytics & Insights",
+                  "name": "Isabel Reyes",
+                  "department": "Data & Analytics",
+                  "location": "Milan, Italy (HQ)",
+                  "email": "isabel.reyes@sienaliving.it",
+                  "employeeId": "FF100065",
+                  "startDate": "2024-02-22",
+                  "salary_eur": 75000
+                }
+              ],
+              "department": "Data & Analytics",
+              "location": "Milan, Italy (HQ)",
+              "email": "yuliya.kovalenko@sienaliving.it",
+              "employeeId": "FF100063",
+              "startDate": "2018-04-25",
+              "salary_eur": 120000
+            }
+          ],
+          "department": "Technology",
+          "location": "Milan, Italy (HQ)",
+          "email": "alessandro.romano@sienaliving.it",
+          "employeeId": "FF100048",
+          "startDate": "2022-02-25",
+          "salary_eur": 200000
+        },
+        {
+          "title": "Chief Human Resources Officer (CHRO)",
+          "name": "Valentina Esposito",
+          "reports": [
+            {
+              "title": "Director, Talent Acquisition",
+              "name": "Martina Lodi",
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "martina.lodi@sienaliving.it",
+              "employeeId": "FF100067",
+              "startDate": "2023-03-19",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, HR Operations & Payroll",
+              "name": "Franco Vitruvio",
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "franco.vitruvio@sienaliving.it",
+              "employeeId": "FF100068",
+              "startDate": "2023-07-06",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Learning & Development",
+              "name": "Nadia Carli",
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "nadia.carli@sienaliving.it",
+              "employeeId": "FF100069",
+              "startDate": "2018-01-07",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Compensation & Benefits",
+              "name": "Ruggero Valli",
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "ruggero.valli@sienaliving.it",
+              "employeeId": "FF100070",
+              "startDate": "2020-03-05",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Employee Relations",
+              "name": "Adele Piras",
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "adele.piras@sienaliving.it",
+              "employeeId": "FF100071",
+              "startDate": "2020-11-08",
+              "salary_eur": 105000
+            }
+          ],
+          "department": "Human Resources",
+          "location": "Milan, Italy (HQ)",
+          "email": "valentina.esposito@sienaliving.it",
+          "employeeId": "FF100066",
+          "startDate": "2022-01-07",
+          "salary_eur": 200000
+        },
+        {
+          "title": "Chief Product & Design Officer (CPO)",
+          "name": "Sofia Moretti",
+          "reports": [
+            {
+              "title": "Director, Furniture Design – Living",
+              "name": "Matilde Capasso",
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "matilde.capasso@sienaliving.it",
+              "employeeId": "FF100073",
+              "startDate": "2024-03-04",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Furniture Design – Bedroom",
+              "name": "Edoardo Basile",
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "edoardo.basile@sienaliving.it",
+              "employeeId": "FF100074",
+              "startDate": "2023-04-08",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Furniture Design – Office",
+              "name": "Carolina Valls",
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "carolina.valls@sienaliving.it",
+              "employeeId": "FF100075",
+              "startDate": "2023-10-11",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, CMF (Color/Materials/Finish)",
+              "name": "Enzo Martelli",
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "enzo.martelli@sienaliving.it",
+              "employeeId": "FF100076",
+              "startDate": "2019-03-17",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Prototyping & Model Shop",
+              "name": "Gabriele Tosi",
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "gabriele.tosi@sienaliving.it",
+              "employeeId": "FF100077",
+              "startDate": "2025-04-11",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Product Lifecycle Management (PLM)",
+              "name": "Alina Petrescu",
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "alina.petrescu@sienaliving.it",
+              "employeeId": "FF100078",
+              "startDate": "2023-11-24",
+              "salary_eur": 105000
+            }
+          ],
+          "department": "Product & Design",
+          "location": "Milan, Italy (HQ)",
+          "email": "sofia.moretti@sienaliving.it",
+          "employeeId": "FF100072",
+          "startDate": "2020-08-08",
+          "salary_eur": 200000
+        },
+        {
+          "title": "SVP Retail",
+          "name": "Paolo Gallo",
+          "reports": [
+            {
+              "title": "Regional Director, Italy North",
+              "name": "Stefano Contarin",
+              "stores": [
+                {
+                  "store_name": "Milano – Corso Como",
+                  "store_manager": {
+                    "name": "Riccardo Villa",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Marta Ardovini",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Alessio Fini",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Giulia Borghi",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Milano – Bicocca",
+                  "store_manager": {
+                    "name": "Elena Musso",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Andrea Cattaneo",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Luca Rizzi",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Sara Galli",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Torino – Centro",
+                  "store_manager": {
+                    "name": "Giorgia Verri",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Pietro Lanza",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Ilaria Pini",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Diego Serra",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Bergamo – Oriocenter",
+                  "store_manager": {
+                    "name": "Massimiliano Piro",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Greta Rota",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Davide Nani",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Vera Nespoli",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Verona – Arena",
+                  "store_manager": {
+                    "name": "Lorenzo Zanin",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Chiara Gatto",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Michele Zanetti",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Paola Maron",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Bologna – Centro",
+                  "store_manager": {
+                    "name": "Samantha D’Angelo",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Raffaele Zucchi",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Bea Turrini",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Nicolò Fava",
+                    "salary_eur": 33000
+                  }
+                }
+              ],
+              "department": "Technology",
+              "location": "Milan, Italy (Regional Office)",
+              "email": "stefano.contarin@sienaliving.it",
+              "employeeId": "FF100080",
+              "startDate": "2019-08-09",
+              "salary_eur": 110000
+            },
+            {
+              "title": "Regional Director, Italy Center",
+              "name": "Laura Mancini",
+              "stores": [
+                {
+                  "store_name": "Roma – Centro",
+                  "store_manager": {
+                    "name": "Daniele Sartori",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Gloria Vecchi",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Gianni Pietra",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Marta Lupo",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Roma – EUR",
+                  "store_manager": {
+                    "name": "Flavia Corsi",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Emanuele Guerra",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Livia Casati",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Claudio Neri",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Firenze – Duomo",
+                  "store_manager": {
+                    "name": "Ginevra Rinaldo",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Tommaso Valli",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Marco Baldi",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Sonia Taviani",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Pisa",
+                  "store_manager": {
+                    "name": "Alessia Taddei",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Filippo Serra",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Marta Papi",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Fabio Righi",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Perugia",
+                  "store_manager": {
+                    "name": "Giulio Mezzanotte",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Sara Vannucci",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Irene Tassi",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Luca Bruni",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Ancona",
+                  "store_manager": {
+                    "name": "Nicoletta Marini",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Stefano Lenti",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Valerio Pace",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Chiara Capone",
+                    "salary_eur": 33000
+                  }
+                }
+              ],
+              "department": "Technology",
+              "location": "Rome, Italy (Regional Office)",
+              "email": "laura.mancini@sienaliving.it",
+              "employeeId": "FF100081",
+              "startDate": "2019-02-20",
+              "salary_eur": 110000
+            },
+            {
+              "title": "Regional Director, Italy South & Islands",
+              "name": "Gennaro Vitale",
+              "stores": [
+                {
+                  "store_name": "Napoli – Chiaia",
+                  "store_manager": {
+                    "name": "Raffaella Conte",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Giovanni Aruta",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Elisa Mansi",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Carmine Fico",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Palermo – Politeama",
+                  "store_manager": {
+                    "name": "Salvatore Gallo",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Rosalia Alaimo",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Paolo Lo Faro",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Maria Inzerillo",
+                    "salary_eur": 33000
+                  }
+                }
+              ],
+              "department": "Technology",
+              "location": "Naples, Italy (Regional Office)",
+              "email": "gennaro.vitale@sienaliving.it",
+              "employeeId": "FF100082",
+              "startDate": "2021-02-16",
+              "salary_eur": 110000
+            },
+            {
+              "title": "Regional Director, International",
+              "name": "Ana Martins",
+              "stores": [
+                {
+                  "store_name": "Paris – Marais",
+                  "store_manager": {
+                    "name": "Camille Dupont",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Hugo Martin",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Louise Bernard",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Romain Petit",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Berlin – Mitte",
+                  "store_manager": {
+                    "name": "Johannes Weber",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Lena Hoffmann",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Marta Schiller",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Tim Krüger",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Madrid – Salamanca",
+                  "store_manager": {
+                    "name": "Lucía García",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Carlos Núñez",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Pablo Ortega",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Irene Muñoz",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Amsterdam – Centrum",
+                  "store_manager": {
+                    "name": "Eva de Vries",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Rik Janssen",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Noa Bakker",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Daan Jansen",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "New York – SoHo",
+                  "store_manager": {
+                    "name": "Ava Thompson",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Noah Carter",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Mia Rodriguez",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Ethan Brooks",
+                    "salary_eur": 33000
+                  }
+                },
+                {
+                  "store_name": "Dubai – The Dubai Mall",
+                  "store_manager": {
+                    "name": "Noura Al Mansoori",
+                    "salary_eur": 42000
+                  },
+                  "assistant_manager": {
+                    "name": "Faisal Khan",
+                    "salary_eur": 34000
+                  },
+                  "visual_merch_lead": {
+                    "name": "Leila Rahman",
+                    "salary_eur": 32000
+                  },
+                  "operations_supervisor": {
+                    "name": "Omar Haddad",
+                    "salary_eur": 33000
+                  }
+                }
+              ],
+              "department": "Technology",
+              "location": "Barcelona, Spain (Regional Hub)",
+              "email": "ana.martins@sienaliving.it",
+              "employeeId": "FF100083",
+              "startDate": "2018-11-24",
+              "salary_eur": 110000
+            }
+          ],
+          "department": "Retail",
+          "location": "Milan, Italy (HQ)",
+          "email": "paolo.gallo@sienaliving.it",
+          "employeeId": "FF100079",
+          "startDate": "2021-02-23",
+          "salary_eur": 160000
+        },
+        {
+          "title": "VP B2B & Contract Sales",
+          "name": "Francesca Leone",
+          "reports": [
+            {
+              "title": "Director, Hospitality & Contract",
+              "name": "Samuel Perri",
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "samuel.perri@sienaliving.it",
+              "employeeId": "FF100085",
+              "startDate": "2019-03-10",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Director, Trade & Architect Relations",
+              "name": "Michele Giordano",
+              "department": "Technology",
+              "location": "Milan, Italy (HQ)",
+              "email": "michele.giordano@sienaliving.it",
+              "employeeId": "FF100086",
+              "startDate": "2025-02-16",
+              "salary_eur": 105000
+            },
+            {
+              "title": "Regional Manager, EMEA",
+              "name": "Anya Novak",
+              "department": "B2B Sales",
+              "location": "Amsterdam, Netherlands (Regional)",
+              "email": "anya.novak@sienaliving.it",
+              "employeeId": "FF100087",
+              "startDate": "2022-12-13",
+              "salary_eur": 90000
+            },
+            {
+              "title": "Regional Manager, Americas",
+              "name": "Carlos Alvarez",
+              "department": "B2B Sales",
+              "location": "New York, USA (Regional)",
+              "email": "carlos.alvarez@sienaliving.it",
+              "employeeId": "FF100088",
+              "startDate": "2021-07-20",
+              "salary_eur": 90000
+            },
+            {
+              "title": "Regional Manager, APAC",
+              "name": "Haruto Tanaka",
+              "department": "B2B Sales",
+              "location": "Singapore (Regional)",
+              "email": "haruto.tanaka@sienaliving.it",
+              "employeeId": "FF100089",
+              "startDate": "2023-02-08",
+              "salary_eur": 90000
+            }
+          ],
+          "department": "B2B Sales",
+          "location": "Milan, Italy (HQ)",
+          "email": "francesca.leone@sienaliving.it",
+          "employeeId": "FF100084",
+          "startDate": "2016-11-28",
+          "salary_eur": 140000
+        },
+        {
+          "title": "General Counsel & Company Secretary",
+          "name": "Riccardo Ferraro",
+          "reports": [
+            {
+              "title": "Head, Corporate & Commercial",
+              "name": "Elena Vannucci",
+              "department": "Legal",
+              "location": "Milan, Italy (HQ)",
+              "email": "elena.vannucci@sienaliving.it",
+              "employeeId": "FF100091",
+              "startDate": "2020-10-13",
+              "salary_eur": 120000
+            },
+            {
+              "title": "Head, IP & Trademarks",
+              "name": "Pietro Nobile",
+              "department": "Legal",
+              "location": "Milan, Italy (HQ)",
+              "email": "pietro.nobile@sienaliving.it",
+              "employeeId": "FF100092",
+              "startDate": "2023-11-21",
+              "salary_eur": 120000
+            },
+            {
+              "title": "Data Protection Officer (DPO)",
+              "name": "Ilaria Benedetti",
+              "department": "Legal",
+              "location": "Milan, Italy (HQ)",
+              "email": "ilaria.benedetti@sienaliving.it",
+              "employeeId": "FF100093",
+              "startDate": "2018-05-25",
+              "salary_eur": 100000
+            },
+            {
+              "title": "Head, Export/Trade Compliance",
+              "name": "Giada Monti",
+              "department": "Legal",
+              "location": "Milan, Italy (HQ)",
+              "email": "giada.monti@sienaliving.it",
+              "employeeId": "FF100094",
+              "startDate": "2023-03-28",
+              "salary_eur": 120000
+            }
+          ],
+          "department": "Legal",
+          "location": "Milan, Italy (HQ)",
+          "email": "riccardo.ferraro@sienaliving.it",
+          "employeeId": "FF100090",
+          "startDate": "2024-06-07",
+          "salary_eur": 180000
+        },
+        {
+          "title": "Head of Sustainability & ESG",
+          "name": "Davide Serra",
+          "reports": [
+            {
+              "title": "Manager, ESG Reporting & Ratings",
+              "name": "Camilla Orsi",
+              "department": "Sustainability",
+              "location": "Milan, Italy (HQ)",
+              "email": "camilla.orsi@sienaliving.it",
+              "employeeId": "FF100096",
+              "startDate": "2024-10-10",
+              "salary_eur": 75000
+            },
+            {
+              "title": "Manager, Environmental Impact & LCA",
+              "name": "Mauro Fadini",
+              "department": "Sustainability",
+              "location": "Milan, Italy (HQ)",
+              "email": "mauro.fadini@sienaliving.it",
+              "employeeId": "FF100097",
+              "startDate": "2021-07-24",
+              "salary_eur": 75000
+            },
+            {
+              "title": "Manager, Ethical Sourcing & Audits",
+              "name": "Vittoria Rizzi",
+              "department": "Sustainability",
+              "location": "Milan, Italy (HQ)",
+              "email": "vittoria.rizzi@sienaliving.it",
+              "employeeId": "FF100098",
+              "startDate": "2022-05-04",
+              "salary_eur": 75000
+            }
+          ],
+          "dotted_line_to": ["FF100002", "FF100072", "FF100019"],
+          "department": "Data & Analytics",
+          "location": "Milan, Italy (HQ)",
+          "email": "davide.serra@sienaliving.it",
+          "employeeId": "FF100095",
+          "startDate": "2022-09-17",
+          "salary_eur": 120000
+        },
+        {
+          "title": "Director, Strategy & PMO",
+          "name": "Alberto Cataldi",
+          "reports": [
+            {
+              "title": "Program Manager, Strategic Initiatives",
+              "name": "Lucia Ferri",
+              "department": "Strategy & PMO",
+              "location": "Milan, Italy (HQ)",
+              "email": "lucia.ferri@sienaliving.it",
+              "employeeId": "FF100100",
+              "startDate": "2021-09-29",
+              "salary_eur": 85000
+            },
+            {
+              "title": "Portfolio Manager, Capex",
+              "name": "Giorgio Mancuso",
+              "department": "Strategy & PMO",
+              "location": "Milan, Italy (HQ)",
+              "email": "giorgio.mancuso@sienaliving.it",
+              "employeeId": "FF100101",
+              "startDate": "2019-11-17",
+              "salary_eur": 85000
+            }
+          ],
+          "department": "Technology",
+          "location": "Milan, Italy (HQ)",
+          "email": "alberto.cataldi@sienaliving.it",
+          "employeeId": "FF100099",
+          "startDate": "2021-10-10",
+          "salary_eur": 105000
+        }
+      ],
+      "department": "Executive",
+      "location": "Milan, Italy (HQ)",
+      "email": "giulia.conti@sienaliving.it",
+      "employeeId": "FF100001",
+      "startDate": "2018-08-17",
+      "salary_eur": 300000
+    },
+    "comp_summary": {
+      "currency": "EUR",
+      "basis": "Gross annual base (RAL), role-based benchmark for ~€100M revenue, Italy",
+      "headcount_counted": 181,
+      "total_payroll_eur": 13790000,
+      "median_salary_eur": 75000
+    }
+  }

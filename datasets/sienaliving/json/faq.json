@@ -1,0 +1,724 @@
+{
+    "faqs": [
+        {
+            "id": 1,
+            "category": "Orders & Payments",
+            "question": "What payment methods do you accept?",
+            "answer": "Visa, MasterCard, Amex, PayPal, Apple Pay, Google Pay, and bank transfer for large orders."
+        },
+        {
+            "id": 2,
+            "category": "Orders & Payments",
+            "question": "Is my payment secure?",
+            "answer": "Yes—PCI-DSS compliant gateways, TLS 1.2+, and 3-D Secure where supported."
+        },
+        {
+            "id": 3,
+            "category": "Orders & Payments",
+            "question": "Which currencies can I pay in?",
+            "answer": "Prices default to EUR. You can view USD/GBP; final charge settles in EUR."
+        },
+        {
+            "id": 4,
+            "category": "Orders & Payments",
+            "question": "Do you offer installments?",
+            "answer": "For EU/US we support select buy-now-pay-later partners on eligible baskets."
+        },
+        {
+            "id": 5,
+            "category": "Orders & Payments",
+            "question": "Can I pay by bank transfer?",
+            "answer": "Yep—for orders over €2,000. Upload proof to speed up processing."
+        },
+        {
+            "id": 6,
+            "category": "Orders & Payments",
+            "question": "Will I receive an invoice?",
+            "answer": "Automatically emailed after payment and available in your account."
+        },
+        {
+            "id": 7,
+            "category": "Orders & Payments",
+            "question": "Can I change or cancel my order?",
+            "answer": "Within 24h for in-stock items. Made-to-order locks once production starts."
+        },
+        {
+            "id": 8,
+            "category": "Orders & Payments",
+            "question": "Do you price match?",
+            "answer": "We review official quotes on identical items before purchase. Not guaranteed."
+        },
+        {
+            "id": 9,
+            "category": "Orders & Payments",
+            "question": "Do you charge VAT?",
+            "answer": "EU consumers: VAT included. Valid EU VAT IDs: reverse charge where eligible. Non-EU: no VAT from us; local taxes may apply."
+        },
+        {
+            "id": 10,
+            "category": "Orders & Payments",
+            "question": "Can I order by phone or email?",
+            "answer": "Sure—our sales team can build the cart and send a secure pay link."
+        },
+        {
+            "id": 11,
+            "category": "Orders & Payments",
+            "question": "Why was my card declined?",
+            "answer": "Common reasons: AVS/3DS mismatch, daily limits, or bank blocks. Try another method or call your bank."
+        },
+        {
+            "id": 12,
+            "category": "Orders & Payments",
+            "question": "Do you collect sales tax outside the EU?",
+            "answer": "We don’t. Carriers or customs may collect duties/taxes at import."
+        },
+        {
+            "id": 13,
+            "category": "Orders & Payments",
+            "question": "Can I split payment across methods?",
+            "answer": "Yes for card + bank transfer. Contact support to arrange."
+        },
+        {
+            "id": 14,
+            "category": "Orders & Payments",
+            "question": "Do you offer gift cards?",
+            "answer": "Digital gift cards in EUR, delivered by email, valid 24 months."
+        },
+        {
+            "id": 15,
+            "category": "Orders & Payments",
+            "question": "Can I apply multiple promo codes?",
+            "answer": "One promo per order unless stated otherwise."
+        },
+        {
+            "id": 16,
+            "category": "Shipping & Delivery",
+            "question": "Do you ship worldwide?",
+            "answer": "Yes—from Italy to 100+ countries via trusted freight partners."
+        },
+        {
+            "id": 17,
+            "category": "Shipping & Delivery",
+            "question": "What are your lead times?",
+            "answer": "In-stock: ship in 2–4 business days. Made-to-order: typically 6–10 weeks plus transit."
+        },
+        {
+            "id": 18,
+            "category": "Shipping & Delivery",
+            "question": "How long is transit?",
+            "answer": "EU: 3–7 business days. North America: 7–14. APAC/ME: 10–18. Remote areas may take longer."
+        },
+        {
+            "id": 19,
+            "category": "Shipping & Delivery",
+            "question": "Which delivery services do you offer?",
+            "answer": "Curbside, Inside Delivery, and White-Glove (room of choice + assembly). Availability varies by postcode."
+        },
+        {
+            "id": 20,
+            "category": "Shipping & Delivery",
+            "question": "How is shipping cost calculated?",
+            "answer": "Based on size, weight, destination, service level, and access conditions."
+        },
+        {
+            "id": 21,
+            "category": "Shipping & Delivery",
+            "question": "Do you offer free shipping?",
+            "answer": "Occasionally for promos or minimums. Check the banner at checkout."
+        },
+        {
+            "id": 22,
+            "category": "Shipping & Delivery",
+            "question": "Will I get tracking?",
+            "answer": "Yes—tracking email when your order leaves our warehouse."
+        },
+        {
+            "id": 23,
+            "category": "Shipping & Delivery",
+            "question": "Can I schedule my delivery?",
+            "answer": "White-Glove includes scheduling. Freight will call/text to confirm a window."
+        },
+        {
+            "id": 24,
+            "category": "Shipping & Delivery",
+            "question": "What about building access restrictions?",
+            "answer": "Tell us about stairs, elevators, permits, or narrow doors beforehand so we plan the right crew."
+        },
+        {
+            "id": 25,
+            "category": "Shipping & Delivery",
+            "question": "Do you deliver on weekends?",
+            "answer": "Select cities only. Surcharges may apply."
+        },
+        {
+            "id": 26,
+            "category": "Shipping & Delivery",
+            "question": "Can I ship to a PO box?",
+            "answer": "No—furniture ships via freight to physical addresses only."
+        },
+        {
+            "id": 27,
+            "category": "Shipping & Delivery",
+            "question": "Do you offer stair carries?",
+            "answer": "Yes—up to specified flights with White-Glove. Extra fees for complex access."
+        },
+        {
+            "id": 28,
+            "category": "Shipping & Delivery",
+            "question": "What if I miss delivery?",
+            "answer": "The carrier will reschedule; storage/redelivery fees may apply."
+        },
+        {
+            "id": 29,
+            "category": "Shipping & Delivery",
+            "question": "Can I hold shipment for later?",
+            "answer": "We can store finished goods for 30 days free; fees after that."
+        },
+        {
+            "id": 30,
+            "category": "Shipping & Delivery",
+            "question": "Can I ship to multiple addresses?",
+            "answer": "Place separate orders or ask our team to split the shipment."
+        },
+        {
+            "id": 31,
+            "category": "Shipping & Delivery",
+            "question": "Do you palletize orders?",
+            "answer": "Yes—export-grade pallets, corner protectors, and shrink wrap as needed."
+        },
+        {
+            "id": 32,
+            "category": "Shipping & Delivery",
+            "question": "Are island/remote surcharges a thing?",
+            "answer": "Sometimes. They’re shown at checkout or quoted by our team."
+        },
+        {
+            "id": 33,
+            "category": "Shipping & Delivery",
+            "question": "Do you consolidate shipments?",
+            "answer": "We can ship as items complete or consolidate on request to minimize deliveries."
+        },
+        {
+            "id": 34,
+            "category": "Shipping & Delivery",
+            "question": "Can I collect from your warehouse?",
+            "answer": "Yes—by appointment from our Italy facility. Bring ID and order number."
+        },
+        {
+            "id": 35,
+            "category": "Shipping & Delivery",
+            "question": "Do you remove old furniture?",
+            "answer": "In select cities with White-Glove. Add disposal during checkout."
+        },
+        {
+            "id": 36,
+            "category": "Shipping & Delivery",
+            "question": "Do you ship assembled?",
+            "answer": "Large items ship assembled or partially; flat-pack includes hardware and guides."
+        },
+        {
+            "id": 37,
+            "category": "Shipping & Delivery",
+            "question": "Can I change my delivery address?",
+            "answer": "Before dispatch: free. After dispatch: reroute fees may apply."
+        },
+        {
+            "id": 38,
+            "category": "Shipping & Delivery",
+            "question": "Do you ship to freight forwarders?",
+            "answer": "Yes—provide forwarder details. Risk transfers upon hand-off."
+        },
+        {
+            "id": 39,
+            "category": "Shipping & Delivery",
+            "question": "Do you provide liftgate service?",
+            "answer": "Yes for curbside in most regions; included for heavy pallets."
+        },
+        {
+            "id": 40,
+            "category": "Shipping & Delivery",
+            "question": "What happens if the box looks damaged?",
+            "answer": "Note it on the delivery slip, take photos, and contact us within 48h."
+        },
+        {
+            "id": 41,
+            "category": "Customs & Duties",
+            "question": "Who pays import duties?",
+            "answer": "Buyer pays in DAP terms unless otherwise stated. We can quote DDP in select countries."
+        },
+        {
+            "id": 42,
+            "category": "Customs & Duties",
+            "question": "Will you provide HS codes?",
+            "answer": "Yes—commercial invoice lists HS codes, value, origin, and materials."
+        },
+        {
+            "id": 43,
+            "category": "Customs & Duties",
+            "question": "Can you help with customs clearance?",
+            "answer": "Our carriers handle clearance; we supply any docs they need."
+        },
+        {
+            "id": 44,
+            "category": "Returns & Warranty",
+            "question": "What’s your return window?",
+            "answer": "30 days on stock items in original packaging. Custom and clearance are final."
+        },
+        {
+            "id": 45,
+            "category": "Returns & Warranty",
+            "question": "How do I start a return?",
+            "answer": "Request a return label in your account or contact support with photos."
+        },
+        {
+            "id": 46,
+            "category": "Returns & Warranty",
+            "question": "Who pays return shipping?",
+            "answer": "Change of mind: you. Fault/our mistake: we cover it."
+        },
+        {
+            "id": 47,
+            "category": "Returns & Warranty",
+            "question": "When will I get my refund?",
+            "answer": "Within 7–10 business days after we receive and inspect the goods."
+        },
+        {
+            "id": 48,
+            "category": "Returns & Warranty",
+            "question": "Can I exchange instead of refund?",
+            "answer": "Yes—exchanges ship once the return scans in, or with a new deposit."
+        },
+        {
+            "id": 49,
+            "category": "Returns & Warranty",
+            "question": "What if my item arrives damaged?",
+            "answer": "Report within 48h with photos; we’ll repair, replace, or refund fast."
+        },
+        {
+            "id": 50,
+            "category": "Returns & Warranty",
+            "question": "Warranty length?",
+            "answer": "2-year warranty on manufacturing defects; specific components may vary."
+        },
+        {
+            "id": 51,
+            "category": "Returns & Warranty",
+            "question": "What’s not covered by warranty?",
+            "answer": "Wear and tear, misuse, improper cleaning, UV fading, and commercial abuse."
+        },
+        {
+            "id": 52,
+            "category": "Returns & Warranty",
+            "question": "Do you offer spare parts?",
+            "answer": "Yes—feet, glides, hardware, cushions, and finish kits on request."
+        },
+        {
+            "id": 53,
+            "category": "Returns & Warranty",
+            "question": "Do I need original packaging?",
+            "answer": "Strongly recommended for returns. Replacement packaging can be purchased."
+        },
+        {
+            "id": 54,
+            "category": "Returns & Warranty",
+            "question": "Can I return assembled items?",
+            "answer": "Yes if safely repacked. Disassembly fees may apply for pickups."
+        },
+        {
+            "id": 55,
+            "category": "Returns & Warranty",
+            "question": "Commercial warranties?",
+            "answer": "Contract-grade lines include extended terms; ask for the spec sheet."
+        },
+        {
+            "id": 56,
+            "category": "Products & Customization",
+            "question": "Can you customize sizes or finishes?",
+            "answer": "Many pieces are customizable. Lead times and pricing will adjust."
+        },
+        {
+            "id": 57,
+            "category": "Products & Customization",
+            "question": "Do colors match photos exactly?",
+            "answer": "Natural materials vary. Order swatches to confirm tone and texture."
+        },
+        {
+            "id": 58,
+            "category": "Products & Customization",
+            "question": "Can I order fabric/leather swatches?",
+            "answer": "Yes—sample kits ship globally. Small fee may apply outside the EU."
+        },
+        {
+            "id": 59,
+            "category": "Products & Customization",
+            "question": "Do you offer fire-rated fabrics/foams?",
+            "answer": "Yes—BS 5852/Crib 5 and CAL TB117 options available on request."
+        },
+        {
+            "id": 60,
+            "category": "Products & Customization",
+            "question": "Are products suitable for hotels/offices?",
+            "answer": "Selected lines are contract-grade with abrasion and stability testing."
+        },
+        {
+            "id": 61,
+            "category": "Products & Customization",
+            "question": "Do you provide 3D/2D files?",
+            "answer": "Yes—3DS, DWG, FBX, and SketchUp models for most products."
+        },
+        {
+            "id": 62,
+            "category": "Products & Customization",
+            "question": "Where are products made?",
+            "answer": "Designed in Italy; manufactured in Italy and select EU partner workshops."
+        },
+        {
+            "id": 63,
+            "category": "Products & Customization",
+            "question": "Do you offer outdoor finishes?",
+            "answer": "Yes—marine-grade metals, UV-stable fabrics, and outdoor foams."
+        },
+        {
+            "id": 64,
+            "category": "Products & Customization",
+            "question": "Weight capacity of seating?",
+            "answer": "Most chairs/sofas are tested to 120–150 kg per seat; see specs."
+        },
+        {
+            "id": 65,
+            "category": "Products & Customization",
+            "question": "Do you include floor protectors?",
+            "answer": "Yes—felt or nylon glides depending on the model."
+        },
+        {
+            "id": 66,
+            "category": "Products & Customization",
+            "question": "Are finishes low-VOC?",
+            "answer": "We prioritize water-based/low-VOC finishes; details in data sheets."
+        },
+        {
+            "id": 67,
+            "category": "Products & Customization",
+            "question": "What wood do you use?",
+            "answer": "Primarily FSC-certified European oak, ash, walnut, and beech."
+        },
+        {
+            "id": 68,
+            "category": "Products & Customization",
+            "question": "Can I request a custom RAL color?",
+            "answer": "Yes—MOQ and surcharge apply. Provide RAL/Pantone reference."
+        },
+        {
+            "id": 69,
+            "category": "Products & Customization",
+            "question": "Do you offer left/right configurations?",
+            "answer": "Sectionals and corner units can be ordered L/R—check product page."
+        },
+        {
+            "id": 70,
+            "category": "Care & Maintenance",
+            "question": "How do I clean wood furniture?",
+            "answer": "Dry dust weekly; wipe with damp soft cloth and mild soap. No harsh chemicals."
+        },
+        {
+            "id": 71,
+            "category": "Care & Maintenance",
+            "question": "How do I care for leather?",
+            "answer": "Vacuum gently, wipe with damp cloth, condition every 6–12 months."
+        },
+        {
+            "id": 72,
+            "category": "Care & Maintenance",
+            "question": "Fabric care tips?",
+            "answer": "Blot spills, avoid rubbing, test cleaners, and use fabric protection if offered."
+        },
+        {
+            "id": 73,
+            "category": "Care & Maintenance",
+            "question": "Outdoor care?",
+            "answer": "Cover during winter, clean regularly, store cushions dry and ventilated."
+        },
+        {
+            "id": 74,
+            "category": "Care & Maintenance",
+            "question": "Do you sell touch-up kits?",
+            "answer": "Yes—finish pens and oil/wax kits matched to our standard finishes."
+        },
+        {
+            "id": 75,
+            "category": "Sustainability & Compliance",
+            "question": "Do you use FSC wood?",
+            "answer": "Yes—FSC-certified sources across core collections."
+        },
+        {
+            "id": 76,
+            "category": "Sustainability & Compliance",
+            "question": "Foam and textile standards?",
+            "answer": "Options include OEKO-TEX® Standard 100 and low-emission foams."
+        },
+        {
+            "id": 77,
+            "category": "Sustainability & Compliance",
+            "question": "Packaging sustainability?",
+            "answer": "We use recyclable cardboard, paper tape, and right-size packing."
+        },
+        {
+            "id": 78,
+            "category": "Sustainability & Compliance",
+            "question": "Do you offer EPDs?",
+            "answer": "Environmental Product Declarations available for select items."
+        },
+        {
+            "id": 79,
+            "category": "Sustainability & Compliance",
+            "question": "Country of origin labeling?",
+            "answer": "Commercial invoices and labels state origin per regulations."
+        },
+        {
+            "id": 80,
+            "category": "Sustainability & Compliance",
+            "question": "REACH/Prop 65 compliance?",
+            "answer": "Materials are screened; product-level statements provided on request."
+        },
+        {
+            "id": 81,
+            "category": "Sustainability & Compliance",
+            "question": "Do you repair rather than replace?",
+            "answer": "We prioritize repair and provide parts to extend product life."
+        },
+        {
+            "id": 82,
+            "category": "Sustainability & Compliance",
+            "question": "Do you offset carbon?",
+            "answer": "We invest in efficiency first; select shipments can be carbon-offset."
+        },
+        {
+            "id": 83,
+            "category": "Trade & B2B",
+            "question": "Do you have a trade program?",
+            "answer": "Yes—volume pricing, project support, and net terms (on approval)."
+        },
+        {
+            "id": 84,
+            "category": "Trade & B2B",
+            "question": "How do I apply for trade terms?",
+            "answer": "Submit your company details and VAT/tax ID on our Trade page."
+        },
+        {
+            "id": 85,
+            "category": "Trade & B2B",
+            "question": "What’s your MOQ for custom?",
+            "answer": "Depends on item/finish—typically 10–50 units. Ask for a quote."
+        },
+        {
+            "id": 86,
+            "category": "Trade & B2B",
+            "question": "Do you provide pro-forma invoices?",
+            "answer": "Yes—valid for 14 days with specs, lead times, and payment terms."
+        },
+        {
+            "id": 87,
+            "category": "Trade & B2B",
+            "question": "Can you source non-catalog items?",
+            "answer": "We can develop or source equivalents if specs are clear."
+        },
+        {
+            "id": 88,
+            "category": "Trade & B2B",
+            "question": "Do you offer on-site installation?",
+            "answer": "Yes—project installs via our logistics partners and crews."
+        },
+        {
+            "id": 89,
+            "category": "Trade & B2B",
+            "question": "Can you ship under my account?",
+            "answer": "Yes—EXW/FCA terms with your carrier and instructions."
+        },
+        {
+            "id": 90,
+            "category": "Trade & B2B",
+            "question": "Can you meet tender specs?",
+            "answer": "Share drawings and standards; we’ll confirm conformity or alternates."
+        },
+        {
+            "id": 91,
+            "category": "Trade & B2B",
+            "question": "Do you label for hospitality",
+            "answer": "We can add room tags, barcodes, and packing lists per room."
+        },
+        {
+            "id": 92,
+            "category": "Trade & B2B",
+            "question": "Do you provide MSDS/SDS?",
+            "answer": "Safety data for finishes/adhesives available on request."
+        },
+        {
+            "id": 93,
+            "category": "Accounts & Privacy",
+            "question": "Do I need an account to order?",
+            "answer": "No, but accounts speed checkout and store invoices and addresses."
+        },
+        {
+            "id": 94,
+            "category": "Accounts & Privacy",
+            "question": "How do I update my address or VAT ID?",
+            "answer": "Log in → Account → Billing/Addresses, then save changes."
+        },
+        {
+            "id": 95,
+            "category": "Accounts & Privacy",
+            "question": "How do you handle my data?",
+            "answer": "We only use it to fulfill orders and support you. See our Privacy Policy."
+        },
+        {
+            "id": 96,
+            "category": "Accounts & Privacy",
+            "question": "Can I delete my account?",
+            "answer": "Yes—request via support. We’ll remove non-essential data after legal holds."
+        },
+        {
+            "id": 97,
+            "category": "Accounts & Privacy",
+            "question": "Do you store card details?",
+            "answer": "No—our payment processor tokenizes them. We don’t see full numbers."
+        },
+        {
+            "id": 98,
+            "category": "Accounts & Privacy",
+            "question": "What are your support hours?",
+            "answer": "Mon–Fri, 9:00–18:00 CET via chat, email, and phone."
+        },
+        {
+            "id": 99,
+            "category": "Accounts & Privacy",
+            "question": "Language support?",
+            "answer": "English and Italian on all channels; other languages by email."
+        },
+        {
+            "id": 100,
+            "category": "Website & Tech",
+            "question": "Can I save items to a wishlist?",
+            "answer": "Yep—tap the heart. Wishlists sync across your devices when logged in."
+        },
+        {
+            "id": 101,
+            "category": "Website & Tech",
+            "question": "Do product pages include dimensions?",
+            "answer": "Yes—full specs with width, depth, height, seat height, and packaging."
+        },
+        {
+            "id": 102,
+            "category": "Website & Tech",
+            "question": "Do you support AR or room visualization?",
+            "answer": "For select items we offer AR models on mobile and scale diagrams."
+        },
+        {
+            "id": 103,
+            "category": "Website & Tech",
+            "question": "Can I download assembly guides?",
+            "answer": "PDFs are on each product page and in your order email."
+        },
+        {
+            "id": 104,
+            "category": "Website & Tech",
+            "question": "Accessibility features?",
+            "answer": "Keyboard navigation, alt text, and contrast compliant pages."
+        },
+        {
+            "id": 105,
+            "category": "Pre-Order & Stock",
+            "question": "What if an item is out of stock?",
+            "answer": "You can pre-order; we show estimated restock dates on the page."
+        },
+        {
+            "id": 106,
+            "category": "Pre-Order & Stock",
+            "question": "Do you accept backorders?",
+            "answer": "Yes—charged at checkout; cancellable until production starts."
+        },
+        {
+            "id": 107,
+            "category": "Pre-Order & Stock",
+            "question": "Can I reserve stock?",
+            "answer": "We hold items for 48h after a pro-forma is issued."
+        },
+        {
+            "id": 108,
+            "category": "Pre-Order & Stock",
+            "question": "Will my order ship partially?",
+            "answer": "Choose split shipment at checkout or consolidate to one delivery."
+        },
+        {
+            "id": 109,
+            "category": "Pre-Order & Stock",
+            "question": "How accurate are ETAs?",
+            "answer": "We update ETAs if suppliers or carriers change schedules."
+        },
+        {
+            "id": 110,
+            "category": "Delivery Day",
+            "question": "Will the furniture fit?",
+            "answer": "Measure doorways, hallways, and elevators. Compare to our spec sheet."
+        },
+        {
+            "id": 111,
+            "category": "Delivery Day",
+            "question": "Do you call before arrival?",
+            "answer": "Freight calls/texts a time window; White-Glove confirms a slot."
+        },
+        {
+            "id": 112,
+            "category": "Delivery Day",
+            "question": "Do you assemble everything?",
+            "answer": "White-Glove includes assembly; curbside/inside doesn’t by default."
+        },
+        {
+            "id": 113,
+            "category": "Delivery Day",
+            "question": "Do you remove packaging?",
+            "answer": "White-Glove includes packaging removal and cleanup."
+        },
+        {
+            "id": 114,
+            "category": "Delivery Day",
+            "question": "What ID do I need?",
+            "answer": "A matching government ID and order number for release."
+        },
+        {
+            "id": 115,
+            "category": "Claims",
+            "question": "How do I file a claim?",
+            "answer": "Open a ticket with order number, photos, and a description within 48h."
+        },
+        {
+            "id": 116,
+            "category": "Claims",
+            "question": "Do you send a technician?",
+            "answer": "For repairable issues, yes—authorized techs handle warranty fixes."
+        },
+        {
+            "id": 117,
+            "category": "Claims",
+            "question": "Do you cover consequential losses?",
+            "answer": "No—coverage is limited to the product and delivery per our Terms."
+        },
+        {
+            "id": 118,
+            "category": "Samples",
+            "question": "How long do swatches take to arrive?",
+            "answer": "EU: 5–7 days. International: 7–14 depending on service."
+        },
+        {
+            "id": 119,
+            "category": "Samples",
+            "question": "How many swatches can I order?",
+            "answer": "Up to 10 free; larger sets billed and refundable against purchase."
+        },
+        {
+            "id": 120,
+            "category": "Contact",
+            "question": "How do I reach support?",
+            "answer": "Email [support@yourbrand.com](mailto:support@yourbrand.com), chat via site, or call/WhatsApp +39-XXX-XXX-XXXX (Mon–Fri, 9:00–18:00 CET)."
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+[
+    {
+      "#": 1,
+      "City": "Milano",
+      "Address": "Corso Buenos Aires 33, 20124",
+      "Latitude": 45.479965,
+      "Longitude": 9.210675
+    },
+    {
+      "#": 2,
+      "City": "Roma",
+      "Address": "Via del Corso 118, 00187",
+      "Latitude": 41.9056,
+      "Longitude": 12.478553
+    },
+    {
+      "#": 3,
+      "City": "Torino",
+      "Address": "Via Giuseppe Garibaldi 34, 10122",
+      "Latitude": 45.07528,
+      "Longitude": 7.673742
+    },
+    {
+      "#": 4,
+      "City": "Firenze",
+      "Address": "Via dei Calzaiuoli 6, 50122",
+      "Latitude": 43.772278,
+      "Longitude": 11.255306
+    },
+    {
+      "#": 5,
+      "City": "Bologna",
+      "Address": "Via dell’Indipendenza 52B, 40126",
+      "Latitude": 44.504055,
+      "Longitude": 11.345349
+    },
+    {
+      "#": 6,
+      "City": "Napoli",
+      "Address": "Via Toledo 156, 80134",
+      "Latitude": 40.841311,
+      "Longitude": 14.248789
+    },
+    {
+      "#": 7,
+      "City": "Verona",
+      "Address": "Via Giuseppe Mazzini 30, 37121",
+      "Latitude": 45.441011,
+      "Longitude": 10.995522
+    },
+    {
+      "#": 8,
+      "City": "Padova",
+      "Address": "Via San Fermo 48, 35137",
+      "Latitude": 45.411189,
+      "Longitude": 11.8751
+    },
+    {
+      "#": 9,
+      "City": "Bolzano",
+      "Address": "Via dei Portici 21, 39100",
+      "Latitude": 46.4996,
+      "Longitude": 11.3545
+    },
+    {
+      "#": 10,
+      "City": "Genova",
+      "Address": "Via XX Settembre 37, 16121",
+      "Latitude": 44.406947,
+      "Longitude": 8.935765
+    },
+    {
+      "#": 11,
+      "City": "Bergamo",
+      "Address": "Via XX Settembre 57, 24122",
+      "Latitude": 45.693194,
+      "Longitude": 9.667019
+    },
+    {
+      "#": 12,
+      "City": "Vicenza",
+      "Address": "Corso Andrea Palladio 147, 36100",
+      "Latitude": 45.548494,
+      "Longitude": 11.546742
+    },
+    {
+      "#": 13,
+      "City": "Treviso",
+      "Address": "Via Calmaggiore 48, 31100",
+      "Latitude": 45.66594,
+      "Longitude": 12.245126
+    },
+    {
+      "#": 14,
+      "City": "Trento",
+      "Address": "Via Rodolfo Belenzani 19, 38122",
+      "Latitude": 46.068429,
+      "Longitude": 11.121303
+    },
+    {
+      "#": 15,
+      "City": "Pisa",
+      "Address": "Corso Italia 105, 56125",
+      "Latitude": 43.712547,
+      "Longitude": 10.400047
+    },
+    {
+      "#": 16,
+      "City": "Bari",
+      "Address": "Via Sparano da Bari 70, 70121",
+      "Latitude": 41.123808,
+      "Longitude": 16.869622
+    },
+    {
+      "#": 17,
+      "City": "Palermo",
+      "Address": "Via Ruggero Settimo 55, 90139",
+      "Latitude": 38.122719,
+      "Longitude": 13.356964
+    },
+    {
+      "#": 18,
+      "City": "Catania",
+      "Address": "Via Etnea 251, 95125",
+      "Latitude": 37.511859,
+      "Longitude": 15.085057
+    },
+    {
+      "#": 19,
+      "City": "Trieste",
+      "Address": "Viale XX Settembre 33, 34126",
+      "Latitude": 45.652253,
+      "Longitude": 13.78119
+    },
+    {
+      "#": 20,
+      "City": "Parma",
+      "Address": "Strada della Repubblica 57, 43121",
+      "Latitude": 44.799906,
+      "Longitude": 10.335219
+    }
+  ]
+  
